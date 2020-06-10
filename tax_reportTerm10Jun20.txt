@@ -1,0 +1,2973 @@
+
+code	|	name	|	preferred name	|	taxid
+1	|	Acangaobitermes krishnai	|	 	|	1972814
+1	|	Acanthotermes acanthothorax	|	 	|	187525
+1	|	Acholotermes chirotus	|	 	|	1934430
+3	|	Acholotermes epius	|	 	|	 
+3	|	Acholotermes imbellis	|	 	|	 
+3	|	Acholotermes socialis	|	 	|	 
+3	|	Acholotermes tithasus	|	 	|	 
+1	|	Aciculitermes aciculatus	|	 	|	1934431
+1	|	Aciculitermes maymyoensis	|	 	|	229658
+1	|	Acidnotermes praus	|	 	|	1934432
+3	|	Acorhinotermes claritae	|	 	|	 
+3	|	Acorhinotermes subfusciceps	|	 	|	 
+3	|	Acutidentitermes osborni	|	 	|	 
+1	|	Adaiphrotermes choanensis	|	 	|	377845
+3	|	Adaiphrotermes cuniculator	|	 	|	 
+3	|	Adaiphrotermes scapheutes	|	 	|	 
+1	|	Aderitotermes cavator	|	 	|	377849
+1	|	Aderitotermes fossor	|	 	|	377850
+1	|	Adynatotermes moretelae	|	 	|	377851
+3	|	Afrosubulitermes congoensis	|	 	|	 
+3	|	Aganotermes oryctes	|	 	|	 
+1	|	Agnathotermes crassinasus	|	 	|	1934436
+1	|	Agnathotermes glaber	|	 	|	2358276
+3	|	Ahamitermes hillii	|	 	|	 
+3	|	Ahamitermes inclusus	|	 	|	 
+3	|	Ahamitermes nidicola	|	 	|	 
+3	|	Ahmaditermes choui	|	 	|	 
+3	|	Ahmaditermes crassinasus	|	 	|	 
+3	|	Ahmaditermes deltocephalus	|	 	|	 
+3	|	Ahmaditermes dukouensis	|	 	|	 
+3	|	Ahmaditermes emersoni	|	 	|	 
+3	|	Ahmaditermes foveafrons	|	 	|	 
+3	|	Ahmaditermes guizhouensis	|	 	|	 
+3	|	Ahmaditermes laticephalus	|	 	|	 
+3	|	Ahmaditermes lipingensis	|	 	|	 
+3	|	Ahmaditermes perisinuosus	|	 	|	 
+3	|	Ahmaditermes pingnanensis	|	 	|	 
+3	|	Ahmaditermes pyricephalus	|	 	|	 
+3	|	Ahmaditermes sichuanensis	|	 	|	 
+3	|	Ahmaditermes sikkimensis	|	 	|	 
+3	|	Ahmaditermes sinensis	|	 	|	 
+3	|	Ahmaditermes sinuosus	|	 	|	 
+3	|	Ahmaditermes tianmuensis	|	 	|	 
+3	|	Ahmaditermes tiantongensis	|	 	|	 
+3	|	Ahmaditermes xiangyunensis	|	 	|	 
+3	|	Allodontermes rhodesiensis	|	 	|	 
+1	|	Allodontermes schultzei	|	 	|	377694
+1	|	Allodontermes tenax	|	 	|	315798
+3	|	Allognathotermes aburiensis	|	 	|	 
+3	|	Allognathotermes hypogeus	|	 	|	 
+1	|	Allognathotermes ivorensis	|	 	|	377852
+3	|	Allotermes denticulatus	|	 	|	 
+3	|	Allotermes papillifer	|	 	|	 
+3	|	Allotermes paradoxus	|	 	|	 
+1	|	Alyscotermes kilimandjaricus	|	 	|	377853
+1	|	Alyscotermes trestus	|	 	|	1236674
+1	|	Amalotermes phaeocephalus	|	 	|	201534
+3	|	Amicotermes autothysius	|	 	|	 
+3	|	Amicotermes camerunensis	|	 	|	 
+3	|	Amicotermes congoensis	|	 	|	 
+3	|	Amicotermes cristatus	|	 	|	 
+3	|	Amicotermes dibogi	|	 	|	 
+3	|	Amicotermes galenus	|	 	|	 
+3	|	Amicotermes gasteruptus	|	 	|	 
+3	|	Amicotermes ivorensis	|	 	|	 
+3	|	Amicotermes mayombei	|	 	|	 
+3	|	Amicotermes mbalmayoensis	|	 	|	 
+3	|	Amicotermes multispinus	|	 	|	 
+3	|	Amicotermes spiculatus	|	 	|	 
+3	|	Amitermes abruptus	|	 	|	 
+3	|	Amitermes accinctus	|	 	|	 
+3	|	Amitermes acinacifer	|	 	|	 
+3	|	Amitermes aduncus	|	 	|	 
+3	|	Amitermes agrilus	|	 	|	 
+1	|	Amitermes amicki	|	 	|	2497005
+1	|	Amitermes amifer	|	 	|	1972815
+3	|	Amitermes aporema	|	 	|	 
+3	|	Amitermes arboreus	|	 	|	 
+3	|	Amitermes arcuatus	|	 	|	 
+3	|	Amitermes baluchistanicus	|	 	|	 
+3	|	Amitermes bandeirai	|	 	|	 
+3	|	Amitermes basidens	|	 	|	 
+1	|	Amitermes beaumonti	|	 	|	377854
+1	|	Amitermes belli	|	 	|	1685048
+3	|	Amitermes boreus	|	 	|	 
+3	|	Amitermes braunsi	|	 	|	 
+3	|	Amitermes calabyi	|	 	|	 
+1	|	Amitermes capito	|	 	|	1934439
+3	|	Amitermes coachellae	|	 	|	 
+3	|	Amitermes colonus	|	 	|	 
+1	|	Amitermes conformis	|	 	|	377855
+3	|	Amitermes corpulentus	|	 	|	 
+3	|	Amitermes cryptodon	|	 	|	 
+1	|	Amitermes darwini	|	 	|	448098
+1	|	Amitermes dentatus	|	 	|	229674
+3	|	Amitermes dentosus	|	 	|	 
+3	|	Amitermes deplanatus	|	 	|	 
+1	|	Amitermes desertorum	|	 	|	1922276
+3	|	Amitermes emersoni	|	 	|	 
+3	|	Amitermes ensifer	|	 	|	 
+1	|	Amitermes eucalypti	|	 	|	448099
+1	|	Amitermes evuncifer	|	 	|	201535
+3	|	Amitermes excellens	|	 	|	 
+3	|	Amitermes exilis	|	 	|	 
+3	|	Amitermes falcatus	|	 	|	 
+3	|	Amitermes firmus	|	 	|	 
+3	|	Amitermes floridensis	|	 	|	 
+1	|	Amitermes foreli	|	 	|	1249902
+3	|	Amitermes gallagheri	|	 	|	 
+1	|	Amitermes germanus	|	 	|	448100
+3	|	Amitermes gestroanus	|	 	|	 
+3	|	Amitermes gracilis	|	 	|	 
+3	|	Amitermes guineensis	|	 	|	 
+3	|	Amitermes hartmeyeri	|	 	|	 
+3	|	Amitermes hastatus	|	 	|	 
+3	|	Amitermes herbertensis	|	 	|	 
+3	|	Amitermes heteraspis	|	 	|	 
+1	|	Amitermes heterognathus	|	 	|	377856
+3	|	Amitermes importunus	|	 	|	 
+3	|	Amitermes innoxius	|	 	|	 
+3	|	Amitermes inops	|	 	|	 
+3	|	Amitermes insolitus	|	 	|	 
+3	|	Amitermes inspissatus	|	 	|	 
+3	|	Amitermes iranicus	|	 	|	 
+3	|	Amitermes kharrazii	|	 	|	 
+3	|	Amitermes lanceolatus	|	 	|	 
+3	|	Amitermes latidens	|	 	|	 
+3	|	Amitermes lativentris	|	 	|	 
+1	|	Amitermes laurensis	|	 	|	355289
+3	|	Amitermes leptognathus	|	 	|	 
+3	|	Amitermes lilloi	|	 	|	 
+3	|	Amitermes loennbergianus	|	 	|	 
+3	|	Amitermes lunae	|	 	|	 
+1	|	Amitermes meridionalis	|	 	|	355290
+3	|	Amitermes messinae	|	 	|	 
+3	|	Amitermes minimus	|	 	|	 
+3	|	Amitermes mitchelli	|	 	|	 
+3	|	Amitermes modicus	|	 	|	 
+3	|	Amitermes neogermanus	|	 	|	 
+1	|	Amitermes obeuntis	|	 	|	377857
+3	|	Amitermes obtusidens	|	 	|	 
+3	|	Amitermes pallidiceps	|	 	|	 
+3	|	Amitermes pallidus	|	 	|	 
+3	|	Amitermes pandus	|	 	|	 
+3	|	Amitermes papuanus	|	 	|	 
+3	|	Amitermes paradentatus	|	 	|	 
+3	|	Amitermes parallelus	|	 	|	 
+3	|	Amitermes paravilis	|	 	|	 
+3	|	Amitermes parvidens	|	 	|	 
+3	|	Amitermes parvulus	|	 	|	 
+1	|	Amitermes parvus	|	 	|	448101
+3	|	Amitermes paucinervius	|	 	|	 
+3	|	Amitermes pavidus	|	 	|	 
+3	|	Amitermes perarmatus	|	 	|	 
+3	|	Amitermes perelegans	|	 	|	 
+3	|	Amitermes perryi	|	 	|	 
+3	|	Amitermes procerus	|	 	|	 
+3	|	Amitermes quadratus	|	 	|	 
+3	|	Amitermes ravus	|	 	|	 
+3	|	Amitermes rotundus	|	 	|	 
+3	|	Amitermes sciangallorum	|	 	|	 
+3	|	Amitermes scopulus	|	 	|	 
+3	|	Amitermes seminotus	|	 	|	 
+3	|	Amitermes silvestrianus	|	 	|	 
+3	|	Amitermes snyderi	|	 	|	 
+3	|	Amitermes socotrensis	|	 	|	 
+3	|	Amitermes somaliensis	|	 	|	 
+3	|	Amitermes spinifer	|	 	|	 
+3	|	Amitermes stephensoni	|	 	|	 
+3	|	Amitermes subtilis	|	 	|	 
+3	|	Amitermes truncatidens	|	 	|	 
+3	|	Amitermes uncinatus	|	 	|	 
+3	|	Amitermes unidentatus	|	 	|	 
+3	|	Amitermes vicinus	|	 	|	 
+1	|	Amitermes vilis	|	 	|	1922277
+3	|	Amitermes viriosus	|	 	|	 
+1	|	Amitermes vitiosus	|	 	|	355291
+3	|	Amitermes westraliensis	|	 	|	 
+3	|	Amitermes wheeleri	|	 	|	 
+3	|	Amitermes xylophagus	|	 	|	 
+3	|	Amitermes yasujensis	|	 	|	 
+1	|	Amplucrutermes inflatus	|	 	|	1778925
+3	|	Ampoulitermes wynaadensis	|	 	|	 
+1	|	Anacanthotermes ahngerianus	|	 	|	2584712
+3	|	Anacanthotermes baeckmannianus	|	 	|	 
+3	|	Anacanthotermes baluchistanicus	|	 	|	 
+3	|	Anacanthotermes esmailii	|	 	|	 
+3	|	Anacanthotermes gurganiensis	|	 	|	 
+3	|	Anacanthotermes iranicus	|	 	|	 
+3	|	Anacanthotermes macrocephalus	|	 	|	 
+3	|	Anacanthotermes murgabicus	|	 	|	 
+1	|	Anacanthotermes ochraceus	|	 	|	377858
+3	|	Anacanthotermes saudiensis	|	 	|	 
+3	|	Anacanthotermes sawensis	|	 	|	 
+3	|	Anacanthotermes septentrionalis	|	 	|	 
+3	|	Anacanthotermes turkestanicus	|	 	|	 
+3	|	Anacanthotermes ubachi	|	 	|	 
+3	|	Anacanthotermes vagans	|	 	|	 
+1	|	Anacanthotermes viarum	|	 	|	1198109
+3	|	Anaorotermes echinocolon	|	 	|	 
+1	|	Ancistrotermes cavithorax	|	 	|	201536
+3	|	Ancistrotermes crassiceps	|	 	|	 
+1	|	Ancistrotermes crucifer	|	 	|	201537
+3	|	Ancistrotermes dimorphus	|	 	|	 
+3	|	Ancistrotermes dubius	|	 	|	 
+3	|	Ancistrotermes equatorius	|	 	|	 
+3	|	Ancistrotermes ganlanbaensis	|	 	|	 
+3	|	Ancistrotermes guineensis	|	 	|	 
+3	|	Ancistrotermes hekouensis	|	 	|	 
+1	|	Ancistrotermes latinotus	|	 	|	479865
+3	|	Ancistrotermes menglianensis	|	 	|	 
+1	|	Ancistrotermes microdens	|	 	|	479866
+1	|	Ancistrotermes pakistanicus	|	 	|	229719
+3	|	Ancistrotermes periphrasis	|	 	|	 
+3	|	Ancistrotermes wasmanni	|	 	|	 
+3	|	Ancistrotermes xiai	|	 	|	 
+3	|	Anenteotermes amachetus	|	 	|	 
+3	|	Anenteotermes ateuchestes	|	 	|	 
+3	|	Anenteotermes cherubimi	|	 	|	 
+3	|	Anenteotermes cicur	|	 	|	 
+3	|	Anenteotermes cnaphorus	|	 	|	 
+3	|	Anenteotermes disluctans	|	 	|	 
+3	|	Anenteotermes hemerus	|	 	|	 
+3	|	Anenteotermes improcinctus	|	 	|	 
+3	|	Anenteotermes improelatans	|	 	|	 
+1	|	Anenteotermes nanus	|	 	|	377859
+1	|	Anenteotermes polyscolus	|	 	|	377860
+3	|	Angularitermes clypeatus	|	 	|	 
+3	|	Angularitermes coninasus	|	 	|	 
+1	|	Angularitermes nasutissimus	|	 	|	1934449
+3	|	Angularitermes orestes	|	 	|	 
+3	|	Angularitermes pinocchio	|	 	|	 
+3	|	Angularitermes tiguassu	|	 	|	 
+3	|	Angulitermes acutus	|	 	|	 
+3	|	Angulitermes akhorisainensis	|	 	|	 
+3	|	Angulitermes arabiae	|	 	|	 
+3	|	Angulitermes asirensis	|	 	|	 
+3	|	Angulitermes bhagsunagensis	|	 	|	 
+3	|	Angulitermes braunsi	|	 	|	 
+3	|	Angulitermes ceylonicus	|	 	|	 
+3	|	Angulitermes dehraensis	|	 	|	 
+3	|	Angulitermes elsenburgi	|	 	|	 
+3	|	Angulitermes emersoni	|	 	|	 
+3	|	Angulitermes fletcheri	|	 	|	 
+3	|	Angulitermes frontalis	|	 	|	 
+3	|	Angulitermes hussaini	|	 	|	 
+3	|	Angulitermes jodhpurensis	|	 	|	 
+3	|	Angulitermes kashmirensis	|	 	|	 
+3	|	Angulitermes keralai	|	 	|	 
+3	|	Angulitermes longifrons	|	 	|	 
+3	|	Angulitermes mishrai	|	 	|	 
+3	|	Angulitermes nepalensis	|	 	|	 
+3	|	Angulitermes nilensis	|	 	|	 
+3	|	Angulitermes obtusus	|	 	|	 
+3	|	Angulitermes paanensis	|	 	|	 
+3	|	Angulitermes punjabensis	|	 	|	 
+3	|	Angulitermes quadriceps	|	 	|	 
+3	|	Angulitermes ramanii	|	 	|	 
+3	|	Angulitermes rathorai	|	 	|	 
+3	|	Angulitermes resimus	|	 	|	 
+3	|	Angulitermes tilaki	|	 	|	 
+3	|	Angulitermes truncatus	|	 	|	 
+3	|	Anhangatermes anhanguera	|	 	|	 
+3	|	Anhangatermes eurycephalus	|	 	|	 
+3	|	Anhangatermes juruena	|	 	|	 
+1	|	Anhangatermes macarthuri	|	 	|	1934450
+3	|	Anhangatermes pilosus	|	 	|	 
+3	|	Anoplotermes ater	|	 	|	 
+3	|	Anoplotermes bahamensis	|	 	|	 
+1	|	Anoplotermes banksi	|	 	|	948538
+3	|	Anoplotermes bolivianus	|	 	|	 
+3	|	Anoplotermes brucei	|	 	|	 
+3	|	Anoplotermes distans	|	 	|	 
+3	|	Anoplotermes fumosus	|	 	|	 
+3	|	Anoplotermes gracilis	|	 	|	 
+3	|	Anoplotermes grandifons	|	 	|	 
+3	|	Anoplotermes hondurensis	|	 	|	 
+3	|	Anoplotermes howardi	|	 	|	 
+3	|	Anoplotermes inopinatus	|	 	|	 
+1	|	Anoplotermes janus	|	 	|	948540
+3	|	Anoplotermes meridianus	|	 	|	 
+3	|	Anoplotermes pacificus	|	 	|	 
+1	|	Anoplotermes parvus	|	 	|	948539
+3	|	Anoplotermes punctatus	|	 	|	 
+3	|	Anoplotermes pyriformis	|	 	|	 
+3	|	Anoplotermes rotundus	|	 	|	 
+1	|	Anoplotermes schwarzi	|	 	|	1249903
+3	|	Anoplotermes subterraneus	|	 	|	 
+3	|	Anoplotermes tenebrosus	|	 	|	 
+1	|	Antillitermes subtilis	|	 	|	2698445
+3	|	Apagotermes stolidus	|	 	|	 
+1	|	Aparatermes abbreviatus	|	 	|	2082397
+1	|	Aparatermes cingulatus	|	 	|	1367267
+2	|	Aparatermes silvestrii	|	Aparatermes cingulatus	|	1367267
+3	|	Aparatermes thornatus	|	 	|	 
+3	|	Apicotermes angustatus	|	 	|	 
+3	|	Apicotermes arquieri	|	 	|	 
+3	|	Apicotermes desneuxi	|	 	|	 
+3	|	Apicotermes emersoni	|	 	|	 
+3	|	Apicotermes goesswaldi	|	 	|	 
+3	|	Apicotermes gurgulifex	|	 	|	 
+3	|	Apicotermes holmgreni	|	 	|	 
+3	|	Apicotermes kisantuensis	|	 	|	 
+3	|	Apicotermes lamani	|	 	|	 
+3	|	Apicotermes occultus	|	 	|	 
+3	|	Apicotermes porifex	|	 	|	 
+3	|	Apicotermes rimulifex	|	 	|	 
+3	|	Apicotermes tragardhi	|	 	|	 
+1	|	Apilitermes longiceps	|	 	|	187574
+3	|	Apsenterotermes aspersus	|	 	|	 
+3	|	Apsenterotermes declinatus	|	 	|	 
+3	|	Apsenterotermes improcerus	|	 	|	 
+3	|	Apsenterotermes iridipennis	|	 	|	 
+3	|	Apsenterotermes stenopronos	|	 	|	 
+1	|	Araujotermes caissara	|	 	|	2358277
+3	|	Araujotermes nanus	|	 	|	 
+1	|	Araujotermes parvellus	|	 	|	1934455
+3	|	Araujotermes zeteki	|	 	|	 
+3	|	Archotermopsis kuznetsovi	|	 	|	 
+1	|	Archotermopsis wroughtoni	|	 	|	46575
+3	|	Arcotermes tubus	|	 	|	 
+3	|	Armitermes armiger	|	 	|	 
+3	|	Armitermes bidentatus	|	 	|	 
+1	|	Armitermes spininotus	|	 	|	1972817
+3	|	Asagarotermes coronatus	|	 	|	 
+3	|	Astalotermes acholus	|	 	|	 
+3	|	Astalotermes aganus	|	 	|	 
+3	|	Astalotermes amicus	|	 	|	 
+3	|	Astalotermes benignus	|	 	|	 
+3	|	Astalotermes brevior	|	 	|	 
+3	|	Astalotermes comis	|	 	|	 
+3	|	Astalotermes concilians	|	 	|	 
+3	|	Astalotermes empodius	|	 	|	 
+3	|	Astalotermes eumenus	|	 	|	 
+3	|	Astalotermes hapalus	|	 	|	 
+3	|	Astalotermes ignavus	|	 	|	 
+3	|	Astalotermes impedians	|	 	|	 
+3	|	Astalotermes irrixosus	|	 	|	 
+3	|	Astalotermes mitis	|	 	|	 
+1	|	Astalotermes murcus	|	 	|	377871
+3	|	Astalotermes obstructus	|	 	|	 
+1	|	Astalotermes quietus	|	 	|	201539
+3	|	Astratotermes aneristus	|	 	|	 
+3	|	Astratotermes apocnetus	|	 	|	 
+3	|	Astratotermes hilarus	|	 	|	 
+3	|	Astratotermes mansuetus	|	 	|	 
+3	|	Astratotermes pacatus	|	 	|	 
+3	|	Astratotermes prosenus	|	 	|	 
+3	|	Ateuchotermes ctenopher	|	 	|	 
+3	|	Ateuchotermes muricatus	|	 	|	 
+3	|	Ateuchotermes pectinatus	|	 	|	 
+3	|	Ateuchotermes rastratus	|	 	|	 
+1	|	Ateuchotermes retifaciens	|	 	|	1934464
+3	|	Ateuchotermes sentosus	|	 	|	 
+3	|	Ateuchotermes spinulatus	|	 	|	 
+3	|	Ateuchotermes tranquillus	|	 	|	 
+3	|	Atlantitermes guarinim	|	 	|	 
+3	|	Atlantitermes ibitiriguara	|	 	|	 
+3	|	Atlantitermes kirbyi	|	 	|	 
+1	|	Atlantitermes oculatissimus	|	 	|	377877
+1	|	Atlantitermes osborni	|	 	|	2603939
+3	|	Atlantitermes raripilus	|	 	|	 
+1	|	Atlantitermes snyderi	|	 	|	1934466
+3	|	Atlantitermes stercophilus	|	 	|	 
+3	|	Australitermes dilucidus	|	 	|	 
+3	|	Australitermes insignitus	|	 	|	 
+1	|	Australitermes perlevis	|	 	|	377878
+3	|	Basidentitermes amicus	|	 	|	 
+1	|	Basidentitermes aurivillii	|	 	|	1576339
+3	|	Basidentitermes demoulini	|	 	|	 
+3	|	Basidentitermes diversifrons	|	 	|	 
+1	|	Basidentitermes mactus	|	 	|	377880
+3	|	Basidentitermes malelaensis	|	 	|	 
+1	|	Basidentitermes potens	|	 	|	2589829
+3	|	Basidentitermes trilobatus	|	 	|	 
+3	|	Batillitermes clypeatus	|	 	|	 
+3	|	Batillitermes monachus	|	 	|	 
+3	|	Baucaliotermes hainesi	|	 	|	 
+3	|	Bicornitermes bicornis	|	 	|	 
+3	|	Bicornitermes emersoni	|	 	|	 
+3	|	Bicornitermes exsertifrons	|	 	|	 
+3	|	Bicornitermes spinicollis	|	 	|	 
+3	|	Bifiditermes angulatus	|	 	|	 
+3	|	Bifiditermes beesoni	|	 	|	 
+3	|	Bifiditermes durbanensis	|	 	|	 
+1	|	Bifiditermes improbus	|	 	|	105776
+3	|	Bifiditermes indicus	|	 	|	 
+3	|	Bifiditermes jeannelanus	|	 	|	 
+3	|	Bifiditermes madagascariensis	|	 	|	 
+1	|	Bifiditermes mutubae	|	 	|	2603941
+3	|	Bifiditermes pintoi	|	 	|	 
+3	|	Bifiditermes rogierae	|	 	|	 
+3	|	Bifiditermes sibayiensis	|	 	|	 
+3	|	Bifiditermes sylvaticus	|	 	|	 
+3	|	Bulbitermes borneensis	|	 	|	 
+3	|	Bulbitermes brevicornis	|	 	|	 
+3	|	Bulbitermes bulbiceps	|	 	|	 
+3	|	Bulbitermes busuangae	|	 	|	 
+3	|	Bulbitermes constricticeps	|	 	|	 
+3	|	Bulbitermes constrictiformis	|	 	|	 
+3	|	Bulbitermes constrictoides	|	 	|	 
+3	|	Bulbitermes constrictus	|	 	|	 
+3	|	Bulbitermes durianensis	|	 	|	 
+3	|	Bulbitermes flavicans	|	 	|	 
+3	|	Bulbitermes fulvus	|	 	|	 
+3	|	Bulbitermes gedeensis	|	 	|	 
+3	|	Bulbitermes germanus	|	 	|	 
+3	|	Bulbitermes johorensis	|	 	|	 
+3	|	Bulbitermes kraepelini	|	 	|	 
+3	|	Bulbitermes lakshmani	|	 	|	 
+3	|	Bulbitermes mariveles	|	 	|	 
+3	|	Bulbitermes mcgregori	|	 	|	 
+3	|	Bulbitermes nasutus	|	 	|	 
+1	|	Bulbitermes parapusillus	|	 	|	229648
+3	|	Bulbitermes perpusillus	|	 	|	 
+1	|	Bulbitermes prabhae	|	 	|	229647
+3	|	Bulbitermes pronasutus	|	 	|	 
+3	|	Bulbitermes prorosae	|	 	|	 
+3	|	Bulbitermes pusillus	|	 	|	 
+3	|	Bulbitermes pyriformis	|	 	|	 
+3	|	Bulbitermes rosae	|	 	|	 
+3	|	Bulbitermes salakensis	|	 	|	 
+1	|	Bulbitermes sarawakensis	|	 	|	377882
+1	|	Bulbitermes singaporiensis	|	 	|	1934469
+3	|	Bulbitermes subulatus	|	 	|	 
+3	|	Bulbitermes umasumasensis	|	 	|	 
+3	|	Bulbitermes vicinus	|	 	|	 
+1	|	Caetetermes taquarussu	|	 	|	1427995
+3	|	Cahuallitermes aduncus	|	 	|	 
+1	|	Cahuallitermes intermedius	|	 	|	1972818
+3	|	Calcaritermes brevicollis	|	 	|	 
+3	|	Calcaritermes colei	|	 	|	 
+3	|	Calcaritermes emarginicollis	|	 	|	 
+3	|	Calcaritermes guatemalae	|	 	|	 
+3	|	Calcaritermes imminens	|	 	|	 
+3	|	Calcaritermes krishnai	|	 	|	 
+1	|	Calcaritermes nearcticus	|	 	|	931985
+1	|	Calcaritermes nigriceps	|	 	|	906891
+3	|	Calcaritermes parvinotus	|	 	|	 
+3	|	Calcaritermes rioensis	|	 	|	 
+3	|	Calcaritermes snyderi	|	 	|	 
+1	|	Calcaritermes temnocephalus	|	 	|	488281
+1	|	Capritermes capricornis	|	 	|	377883
+1	|	Caribitermes discolor	|	 	|	2698459
+1	|	Cavitermes parmae	|	 	|	1934473
+3	|	Cavitermes parvicavus	|	 	|	 
+3	|	Cavitermes rozeni	|	 	|	 
+3	|	Cavitermes simplicinervis	|	 	|	 
+1	|	Cavitermes tuberosus	|	 	|	187529
+1	|	Cephalotermes rectangularis	|	 	|	187531
+1	|	Ceratokalotermes spoliator	|	 	|	105778
+3	|	Ceylonitermellus hantanae	|	 	|	 
+3	|	Ceylonitermellus kotuae	|	 	|	 
+1	|	Ceylonitermes escherichi	|	 	|	377885
+3	|	Ceylonitermes indicola	|	 	|	 
+3	|	Ceylonitermes paulosus	|	 	|	 
+1	|	Coarctotermes beharaensis	|	 	|	377886
+1	|	Coarctotermes clepsydra	|	 	|	377887
+3	|	Coarctotermes nasonovi	|	 	|	 
+1	|	Coarctotermes pauliani	|	 	|	377888
+1	|	Coatitermes clevelandi	|	 	|	2358279
+1	|	Coatitermes kartaboensis	|	 	|	377889
+3	|	Coatitermes mazaruniensis	|	 	|	 
+3	|	Coatitermes pallidus	|	 	|	 
+3	|	Coendutermes tucum	|	 	|	 
+1	|	Comatermes perfectus	|	 	|	488295
+3	|	Compositermes bani	|	 	|	 
+1	|	Compositermes vindai	|	 	|	1367275
+3	|	Constrictotermes cacaoensis	|	 	|	 
+1	|	Constrictotermes cavifrons	|	 	|	1249904
+1	|	Constrictotermes cyphergaster	|	 	|	488269
+1	|	Constrictotermes guantanamensis	|	 	|	1249905
+3	|	Constrictotermes latinotus	|	 	|	 
+3	|	Constrictotermes rupestris	|	 	|	 
+3	|	Convexitermes convexifrons	|	 	|	 
+1	|	Convexitermes manni	|	 	|	2698460
+1	|	Coptotermes acinaciformis	|	 	|	72654
+1	|	Coptotermes amanii	|	 	|	1075645
+3	|	Coptotermes amboinensis	|	 	|	 
+1	|	Coptotermes bannaensis	|	 	|	1134122
+3	|	Coptotermes beckeri	|	 	|	 
+3	|	Coptotermes bentongensis	|	 	|	 
+3	|	Coptotermes boetonensis	|	 	|	 
+1	|	Coptotermes brunneus	|	 	|	1561167
+3	|	Coptotermes ceylonicus	|	 	|	 
+3	|	Coptotermes changtaiensis	|	 	|	 
+3	|	Coptotermes chaoxianensis	|	 	|	 
+1	|	Coptotermes cochlearus	|	 	|	568086
+3	|	Coptotermes cooloola	|	 	|	 
+1	|	Coptotermes curvignathus	|	 	|	270671
+3	|	Coptotermes cyclocoryphus	|	 	|	 
+1	|	Coptotermes dimorphus	|	 	|	568087
+3	|	Coptotermes dobonicus	|	 	|	 
+1	|	Coptotermes dreghorni	|	 	|	1561168
+1	|	Coptotermes elisae	|	 	|	1586083
+3	|	Coptotermes emersoni	|	 	|	 
+1	|	Coptotermes formosanus	|	 	|	36987
+1	|	Coptotermes frenchi	|	 	|	370047
+3	|	Coptotermes fumipennis	|	 	|	 
+3	|	Coptotermes gambrinus	|	 	|	 
+3	|	Coptotermes gaurii	|	 	|	 
+1	|	Coptotermes gestroi	|	 	|	232242
+3	|	Coptotermes grandiceps	|	 	|	 
+3	|	Coptotermes grandis	|	 	|	 
+3	|	Coptotermes guangdongensis	|	 	|	 
+3	|	Coptotermes guizhouensis	|	 	|	 
+3	|	Coptotermes gulangyuensis	|	 	|	 
+3	|	Coptotermes hainanensis	|	 	|	 
+1	|	Coptotermes heimi	|	 	|	282472
+1	|	Coptotermes hekouensis	|	 	|	1134123
+1	|	Coptotermes intermedius	|	 	|	282471
+1	|	Coptotermes kalshoveni	|	 	|	274632
+3	|	Coptotermes kishori	|	 	|	 
+1	|	Coptotermes lacteus	|	 	|	119669
+3	|	Coptotermes longignathus	|	 	|	 
+1	|	Coptotermes longistriatus	|	 	|	112475
+3	|	Coptotermes mauricianus	|	 	|	 
+3	|	Coptotermes melanoistriatus	|	 	|	 
+3	|	Coptotermes menadoae	|	 	|	 
+1	|	Coptotermes michaelseni	|	 	|	282474
+3	|	Coptotermes minutissimus	|	 	|	 
+3	|	Coptotermes monosetosus	|	 	|	 
+3	|	Coptotermes nanus	|	 	|	 
+2	|	Coptotermes ochraceus	|	Coptotermes formosanus	|	36987
+3	|	Coptotermes oshimai	|	 	|	 
+3	|	Coptotermes pamuae	|	 	|	 
+3	|	Coptotermes paradoxus	|	 	|	 
+3	|	Coptotermes peregrinator	|	 	|	 
+3	|	Coptotermes premrasmii	|	 	|	 
+1	|	Coptotermes remotus	|	 	|	1826157
+1	|	Coptotermes sepangensis	|	 	|	299598
+3	|	Coptotermes shanghaiensis	|	 	|	 
+1	|	Coptotermes silvaticus	|	 	|	1586085
+3	|	Coptotermes sinabangensis	|	 	|	 
+2	|	Coptotermes sjostedti	|	Coptotermes sjoestedti	|	377891
+1	|	Coptotermes suzhouensis	|	 	|	2080274
+1	|	Coptotermes testaceus	|	 	|	280681
+1	|	Coptotermes travians	|	 	|	300184
+1	|	Coptotermes truncatus	|	 	|	676800
+3	|	Coptotermes varicapitatus	|	 	|	 
+1	|	Coptotermes vastator	|	 	|	232792
+3	|	Cornicapritermes mucronatus	|	 	|	 
+1	|	Cornitermes acignathus	|	 	|	1972819
+1	|	Cornitermes bequaerti	|	 	|	99800
+1	|	Cornitermes bolivianus	|	 	|	1972820
+1	|	Cornitermes cumulans	|	 	|	99801
+3	|	Cornitermes falcatus	|	 	|	 
+3	|	Cornitermes incisus	|	 	|	 
+1	|	Cornitermes ovatus	|	 	|	1972821
+3	|	Cornitermes pilosus	|	 	|	 
+1	|	Cornitermes pugnax	|	 	|	377892
+1	|	Cornitermes silvestrii	|	 	|	1972822
+3	|	Cornitermes snyderi	|	 	|	 
+3	|	Cornitermes villosus	|	 	|	 
+1	|	Cornitermes walkeri	|	 	|	62947
+3	|	Cornitermes weberi	|	 	|	 
+3	|	Cortaritermes fulviceps	|	 	|	 
+1	|	Cortaritermes intermedius	|	 	|	1544290
+3	|	Cortaritermes piliceps	|	 	|	 
+3	|	Cortaritermes rizzinii	|	 	|	 
+3	|	Cortaritermes silvestrii	|	 	|	 
+1	|	Coxotermes boukokoensis	|	 	|	377893
+1	|	Crenetermes albotarsalis	|	 	|	377894
+3	|	Crenetermes elongatus	|	 	|	 
+3	|	Crenetermes fruitus	|	 	|	 
+3	|	Crenetermes mandibulatus	|	 	|	 
+3	|	Crenetermes mixtus	|	 	|	 
+1	|	Crepititermes verruculosus	|	 	|	187533
+3	|	Cristatitermes arenicola	|	 	|	 
+3	|	Cristatitermes barretti	|	 	|	 
+3	|	Cristatitermes carinatus	|	 	|	 
+1	|	Cristatitermes froggatti	|	 	|	377895
+3	|	Cristatitermes pineaformis	|	 	|	 
+1	|	Cristatitermes tutulatus	|	 	|	377896
+3	|	Cryptotermes abruptus	|	 	|	 
+3	|	Cryptotermes aequacornis	|	 	|	 
+3	|	Cryptotermes albipes	|	 	|	 
+3	|	Cryptotermes angustinotus	|	 	|	 
+1	|	Cryptotermes austrinus	|	 	|	105779
+3	|	Cryptotermes bengalensis	|	 	|	 
+3	|	Cryptotermes bracketti	|	 	|	 
+1	|	Cryptotermes brevis	|	 	|	105780
+3	|	Cryptotermes canalensis	|	 	|	 
+1	|	Cryptotermes cavifrons	|	 	|	641613
+3	|	Cryptotermes ceylonicus	|	 	|	 
+3	|	Cryptotermes chacoensis	|	 	|	 
+3	|	Cryptotermes chasei	|	 	|	 
+1	|	Cryptotermes colombianus	|	 	|	1874246
+3	|	Cryptotermes contognathus	|	 	|	 
+3	|	Cryptotermes crassicornis	|	 	|	 
+3	|	Cryptotermes cristatus	|	 	|	 
+3	|	Cryptotermes cryptognathus	|	 	|	 
+3	|	Cryptotermes cubicoceps	|	 	|	 
+1	|	Cryptotermes cylindroceps	|	 	|	906893
+3	|	Cryptotermes cymatofrons	|	 	|	 
+1	|	Cryptotermes cynocephalus	|	 	|	105781
+3	|	Cryptotermes darlingtonae	|	 	|	 
+3	|	Cryptotermes darwini	|	 	|	 
+3	|	Cryptotermes daulti	|	 	|	 
+1	|	Cryptotermes declivis	|	 	|	1085568
+3	|	Cryptotermes dolei	|	 	|	 
+1	|	Cryptotermes domesticus	|	 	|	60569
+1	|	Cryptotermes dudleyi	|	 	|	105782
+3	|	Cryptotermes fatulus	|	 	|	 
+3	|	Cryptotermes garifunae	|	 	|	 
+3	|	Cryptotermes gearyi	|	 	|	 
+3	|	Cryptotermes hainanensis	|	 	|	 
+1	|	Cryptotermes havilandi	|	 	|	641612
+3	|	Cryptotermes hemicyclius	|	 	|	 
+3	|	Cryptotermes hilli	|	 	|	 
+3	|	Cryptotermes juliani	|	 	|	 
+3	|	Cryptotermes karachiensis	|	 	|	 
+3	|	Cryptotermes kirbyi	|	 	|	 
+3	|	Cryptotermes kororensis	|	 	|	 
+1	|	Cryptotermes longicollis	|	 	|	641610
+3	|	Cryptotermes luodianis	|	 	|	 
+3	|	Cryptotermes mangoldi	|	 	|	 
+3	|	Cryptotermes merwei	|	 	|	 
+3	|	Cryptotermes naudei	|	 	|	 
+3	|	Cryptotermes nitens	|	 	|	 
+3	|	Cryptotermes nitidus	|	 	|	 
+3	|	Cryptotermes pallidus	|	 	|	 
+3	|	Cryptotermes papulosus	|	 	|	 
+3	|	Cryptotermes parvifrons	|	 	|	 
+3	|	Cryptotermes penaoru	|	 	|	 
+3	|	Cryptotermes perforans	|	 	|	 
+3	|	Cryptotermes pingyangensis	|	 	|	 
+1	|	Cryptotermes primus	|	 	|	105783
+3	|	Cryptotermes pyrodomus	|	 	|	 
+1	|	Cryptotermes queenslandis	|	 	|	105784
+3	|	Cryptotermes rhicnocephalus	|	 	|	 
+3	|	Cryptotermes riverinae	|	 	|	 
+3	|	Cryptotermes roonwali	|	 	|	 
+3	|	Cryptotermes rotundiceps	|	 	|	 
+1	|	Cryptotermes secundus	|	 	|	105785
+3	|	Cryptotermes silvestrii	|	 	|	 
+1	|	Cryptotermes simulatus	|	 	|	105786
+3	|	Cryptotermes spathifrons	|	 	|	 
+3	|	Cryptotermes sukauensis	|	 	|	 
+3	|	Cryptotermes sumatrensis	|	 	|	 
+1	|	Cryptotermes thailandis	|	 	|	229725
+1	|	Cryptotermes tropicalis	|	 	|	105787
+3	|	Cryptotermes undulans	|	 	|	 
+3	|	Cryptotermes venezolanus	|	 	|	 
+3	|	Cryptotermes verruculosus	|	 	|	 
+3	|	Cubitermes aemulus	|	 	|	 
+3	|	Cubitermes anatruncatus	|	 	|	 
+3	|	Cubitermes atrox	|	 	|	 
+3	|	Cubitermes banksi	|	 	|	 
+3	|	Cubitermes bilobatodes	|	 	|	 
+3	|	Cubitermes bilobatus	|	 	|	 
+3	|	Cubitermes breviceps	|	 	|	 
+3	|	Cubitermes bugeserae	|	 	|	 
+3	|	Cubitermes bulbifrons	|	 	|	 
+3	|	Cubitermes caesareus	|	 	|	 
+3	|	Cubitermes comstocki	|	 	|	 
+3	|	Cubitermes congoensis	|	 	|	 
+3	|	Cubitermes conjenii	|	 	|	 
+3	|	Cubitermes curtatus	|	 	|	 
+3	|	Cubitermes duplex	|	 	|	 
+3	|	Cubitermes exiguus	|	 	|	 
+3	|	Cubitermes falcifer	|	 	|	 
+3	|	Cubitermes finitimus	|	 	|	 
+1	|	Cubitermes fulvus	|	 	|	1934476
+1	|	Cubitermes fungifaber	|	 	|	377897
+3	|	Cubitermes gaigei	|	 	|	 
+3	|	Cubitermes gibbifrons	|	 	|	 
+3	|	Cubitermes glebae	|	 	|	 
+3	|	Cubitermes hamatus	|	 	|	 
+3	|	Cubitermes inclitus	|	 	|	 
+3	|	Cubitermes intercalatus	|	 	|	 
+3	|	Cubitermes latens	|	 	|	 
+3	|	Cubitermes loubetsiensis	|	 	|	 
+3	|	Cubitermes microduplex	|	 	|	 
+3	|	Cubitermes minitabundus	|	 	|	 
+3	|	Cubitermes modestior	|	 	|	 
+3	|	Cubitermes montanus	|	 	|	 
+3	|	Cubitermes muneris	|	 	|	 
+3	|	Cubitermes niokoloensis	|	 	|	 
+1	|	Cubitermes oblectatus	|	 	|	1934477
+3	|	Cubitermes oculatus	|	 	|	 
+3	|	Cubitermes orthognathus	|	 	|	 
+3	|	Cubitermes pallidiceps	|	 	|	 
+3	|	Cubitermes planifrons	|	 	|	 
+3	|	Cubitermes pretorianus	|	 	|	 
+3	|	Cubitermes proximatus	|	 	|	 
+3	|	Cubitermes sanctaeluciae	|	 	|	 
+3	|	Cubitermes sankurensis	|	 	|	 
+3	|	Cubitermes schereri	|	 	|	 
+3	|	Cubitermes schmidti	|	 	|	 
+3	|	Cubitermes severus	|	 	|	 
+3	|	Cubitermes sierraleonicus	|	 	|	 
+3	|	Cubitermes silvestrii	|	 	|	 
+1	|	Cubitermes speciosus	|	 	|	2303997
+1	|	Cubitermes subarquatus	|	 	|	143604
+3	|	Cubitermes subcrenulatus	|	 	|	 
+1	|	Cubitermes sulcifrons	|	 	|	1934479
+3	|	Cubitermes tenuiceps	|	 	|	 
+3	|	Cubitermes testaceus	|	 	|	 
+3	|	Cubitermes transvaalensis	|	 	|	 
+3	|	Cubitermes truncatoides	|	 	|	 
+3	|	Cubitermes truncatus	|	 	|	 
+1	|	Cubitermes ugandensis	|	 	|	1236676
+1	|	Cubitermes umbratus	|	 	|	445440
+3	|	Cubitermes undulatus	|	 	|	 
+3	|	Cubitermes weissi	|	 	|	 
+3	|	Cubitermes zavattarii	|	 	|	 
+3	|	Cubitermes zenkeri	|	 	|	 
+3	|	Cubitermes zulucola	|	 	|	 
+3	|	Cubitermes zuluensis	|	 	|	 
+3	|	Cucurbitermes parviceps	|	 	|	 
+3	|	Cucurbitermes sinensis	|	 	|	 
+3	|	Cucurbitermes yingdeensis	|	 	|	 
+3	|	Curvitermes minor	|	 	|	 
+1	|	Curvitermes odontognathus	|	 	|	1972823
+3	|	Cylindrotermes brevipilosus	|	 	|	 
+3	|	Cylindrotermes caata	|	 	|	 
+3	|	Cylindrotermes capixaba	|	 	|	 
+3	|	Cylindrotermes flangiatus	|	 	|	 
+3	|	Cylindrotermes macrognathus	|	 	|	 
+3	|	Cylindrotermes nordenskioldi	|	 	|	 
+1	|	Cylindrotermes parvignathus	|	 	|	187535
+1	|	Cylindrotermes sapiranga	|	 	|	2052667
+1	|	Cyranotermes caete	|	 	|	377899
+3	|	Cyranotermes glaber	|	 	|	 
+3	|	Cyranotermes karipuna	|	 	|	 
+1	|	Cyranotermes timuassu	|	 	|	2358281
+1	|	Cyrilliotermes angulariceps	|	 	|	377900
+3	|	Cyrilliotermes brevidens	|	 	|	 
+3	|	Cyrilliotermes crassinasus	|	 	|	 
+1	|	Cyrilliotermes strictinasus	|	 	|	2303978
+1	|	Dentispicotermes brevicarinatus	|	 	|	187537
+3	|	Dentispicotermes conjunctus	|	 	|	 
+3	|	Dentispicotermes cupiporanga	|	 	|	 
+3	|	Dentispicotermes globicephalus	|	 	|	 
+3	|	Dentispicotermes pantanalis	|	 	|	 
+3	|	Dicuspiditermes achankovili	|	 	|	 
+3	|	Dicuspiditermes boseae	|	 	|	 
+3	|	Dicuspiditermes cacuminatus	|	 	|	 
+3	|	Dicuspiditermes cornutella	|	 	|	 
+3	|	Dicuspiditermes fissifex	|	 	|	 
+3	|	Dicuspiditermes fontanellus	|	 	|	 
+3	|	Dicuspiditermes gravelyi	|	 	|	 
+3	|	Dicuspiditermes hutsoni	|	 	|	 
+1	|	Dicuspiditermes incola	|	 	|	377901
+3	|	Dicuspiditermes kistneri	|	 	|	 
+1	|	Dicuspiditermes laetus	|	 	|	2303998
+1	|	Dicuspiditermes makhamensis	|	 	|	229705
+3	|	Dicuspiditermes minutus	|	 	|	 
+1	|	Dicuspiditermes nemorosus	|	 	|	73857
+3	|	Dicuspiditermes obtusus	|	 	|	 
+3	|	Dicuspiditermes punjabensis	|	 	|	 
+3	|	Dicuspiditermes rothi	|	 	|	 
+1	|	Dicuspiditermes santschii	|	 	|	377902
+3	|	Dicuspiditermes sisiri	|	 	|	 
+1	|	Dicuspiditermes spinitibialis	|	 	|	229704
+1	|	Dihoplotermes inusitatus	|	 	|	187576
+3	|	Dihoplotermes taurus	|	 	|	 
+1	|	Disjunctitermes insularis	|	 	|	2025384
+3	|	Diversitermes castaniceps	|	 	|	 
+1	|	Diversitermes diversimiles	|	 	|	2358282
+3	|	Diversitermes tiapuan	|	 	|	 
+3	|	Divinotermes allognathus	|	 	|	 
+3	|	Divinotermes digitatus	|	 	|	 
+3	|	Divinotermes tuberculatus	|	 	|	 
+3	|	Diwaitermes castanopsis	|	 	|	 
+3	|	Diwaitermes foi	|	 	|	 
+3	|	Diwaitermes kanehirai	|	 	|	 
+3	|	Dolichorhinotermes japuraensis	|	 	|	 
+3	|	Dolichorhinotermes lanciarius	|	 	|	 
+3	|	Dolichorhinotermes latilabrum	|	 	|	 
+3	|	Dolichorhinotermes longidens	|	 	|	 
+1	|	Dolichorhinotermes longilabius	|	 	|	280685
+3	|	Dolichorhinotermes neli	|	 	|	 
+3	|	Dolichorhinotermes tenebrosus	|	 	|	 
+3	|	Drepanotermes acicularis	|	 	|	 
+3	|	Drepanotermes barretti	|	 	|	 
+3	|	Drepanotermes basidens	|	 	|	 
+3	|	Drepanotermes bellator	|	 	|	 
+3	|	Drepanotermes brevis	|	 	|	 
+3	|	Drepanotermes calabyi	|	 	|	 
+3	|	Drepanotermes clarki	|	 	|	 
+3	|	Drepanotermes columellaris	|	 	|	 
+3	|	Drepanotermes corax	|	 	|	 
+3	|	Drepanotermes crassidens	|	 	|	 
+3	|	Drepanotermes daliensis	|	 	|	 
+3	|	Drepanotermes dibolia	|	 	|	 
+3	|	Drepanotermes diversicolor	|	 	|	 
+3	|	Drepanotermes gayi	|	 	|	 
+3	|	Drepanotermes hamulus	|	 	|	 
+3	|	Drepanotermes hilli	|	 	|	 
+3	|	Drepanotermes invasor	|	 	|	 
+3	|	Drepanotermes magnificus	|	 	|	 
+3	|	Drepanotermes paradoxus	|	 	|	 
+3	|	Drepanotermes perniger	|	 	|	 
+3	|	Drepanotermes phoenix	|	 	|	 
+1	|	Drepanotermes rubriceps	|	 	|	62950
+1	|	Drepanotermes septentrionalis	|	 	|	448102
+3	|	Drepanotermes tamminensis	|	 	|	 
+3	|	Duplidentitermes furcatidens	|	 	|	 
+3	|	Duplidentitermes jurioni	|	 	|	 
+3	|	Duplidentitermes latimentonis	|	 	|	 
+1	|	Eburnitermes grassei	|	 	|	377903
+3	|	Ekphysotermes jarmuranus	|	 	|	 
+3	|	Ekphysotermes kalgoorliensis	|	 	|	 
+3	|	Ekphysotermes ocellaris	|	 	|	 
+3	|	Ekphysotermes pelatus	|	 	|	 
+3	|	Ekphysotermes percomis	|	 	|	 
+3	|	Eleanoritermes borneensis	|	 	|	 
+3	|	Embiratermes benjamini	|	 	|	 
+1	|	Embiratermes brevinasus	|	 	|	377904
+1	|	Embiratermes chagresi	|	 	|	62945
+1	|	Embiratermes festivellus	|	 	|	1972824
+3	|	Embiratermes heterotypus	|	 	|	 
+1	|	Embiratermes ignotus	|	 	|	1972825
+3	|	Embiratermes latidens	|	 	|	 
+1	|	Embiratermes neotenicus	|	 	|	1367269
+3	|	Embiratermes parvirostris	|	 	|	 
+3	|	Embiratermes robustus	|	 	|	 
+1	|	Embiratermes silvestrii	|	 	|	1972826
+3	|	Embiratermes snyderi	|	 	|	 
+3	|	Embiratermes spissus	|	 	|	 
+1	|	Embiratermes transandinus	|	 	|	377905
+3	|	Emersonitermes thekadensis	|	 	|	 
+3	|	Enetotermes bembicoides	|	 	|	 
+1	|	Ephelotermes argutus	|	 	|	377906
+3	|	Ephelotermes cheeli	|	 	|	 
+1	|	Ephelotermes melachoma	|	 	|	448103
+3	|	Ephelotermes paleatus	|	 	|	 
+3	|	Ephelotermes persimilis	|	 	|	 
+1	|	Ephelotermes taylori	|	 	|	448104
+3	|	Epicalotermes aethiopicus	|	 	|	 
+1	|	Epicalotermes kempae	|	 	|	2603940
+1	|	Epicalotermes mkuzii	|	 	|	377907
+3	|	Epicalotermes munroi	|	 	|	 
+3	|	Epicalotermes pakistanicus	|	 	|	 
+3	|	Epicalotermes planifrons	|	 	|	 
+3	|	Eremotermes arctus	|	 	|	 
+3	|	Eremotermes dehraduni	|	 	|	 
+3	|	Eremotermes fletcheri	|	 	|	 
+3	|	Eremotermes indicatus	|	 	|	 
+3	|	Eremotermes madrasicus	|	 	|	 
+3	|	Eremotermes nanus	|	 	|	 
+3	|	Eremotermes neoparadoxalis	|	 	|	 
+3	|	Eremotermes paradoxalis	|	 	|	 
+3	|	Eremotermes sanyuktae	|	 	|	 
+3	|	Eremotermes senegalensis	|	 	|	 
+3	|	Ereymatermes panamensis	|	 	|	 
+3	|	Ereymatermes piquira	|	 	|	 
+3	|	Ereymatermes rotundiceps	|	 	|	 
+3	|	Euchilotermes acutidens	|	 	|	 
+3	|	Euchilotermes quadriceps	|	 	|	 
+1	|	Euchilotermes tensus	|	 	|	377908
+1	|	Euchilotermes umbraticola	|	 	|	378166
+3	|	Eucryptotermes breviceps	|	 	|	 
+3	|	Eucryptotermes hagenii	|	 	|	 
+3	|	Euhamitermes aruna	|	 	|	 
+3	|	Euhamitermes bidentatus	|	 	|	 
+3	|	Euhamitermes chhotanii	|	 	|	 
+3	|	Euhamitermes concavigulus	|	 	|	 
+3	|	Euhamitermes daweishanensis	|	 	|	 
+3	|	Euhamitermes dentatus	|	 	|	 
+3	|	Euhamitermes guizhouensis	|	 	|	 
+1	|	Euhamitermes hamatus	|	 	|	229713
+3	|	Euhamitermes indicus	|	 	|	 
+3	|	Euhamitermes kanhaensis	|	 	|	 
+3	|	Euhamitermes karnatakensis	|	 	|	 
+3	|	Euhamitermes lighti	|	 	|	 
+3	|	Euhamitermes melanocephalus	|	 	|	 
+3	|	Euhamitermes mengdingensis	|	 	|	 
+3	|	Euhamitermes microcephalus	|	 	|	 
+3	|	Euhamitermes quadratceps	|	 	|	 
+3	|	Euhamitermes retusus	|	 	|	 
+3	|	Euhamitermes shillongensis	|	 	|	 
+3	|	Euhamitermes urbanii	|	 	|	 
+3	|	Euhamitermes wittmeri	|	 	|	 
+3	|	Euhamitermes yui	|	 	|	 
+3	|	Euhamitermes yunnanensis	|	 	|	 
+3	|	Euhamitermes yuntaishanensis	|	 	|	 
+3	|	Euhamitermes zhejianensis	|	 	|	 
+3	|	Eurytermes assmuthi	|	 	|	 
+3	|	Eurytermes boveni	|	 	|	 
+3	|	Eurytermes buddha	|	 	|	 
+3	|	Eurytermes ceylonicus	|	 	|	 
+3	|	Eurytermes mohana	|	 	|	 
+3	|	Eurytermes topslipensis	|	 	|	 
+3	|	Euscaiotermes primus	|	 	|	 
+3	|	Eutermellus abruptus	|	 	|	 
+3	|	Eutermellus aquilinus	|	 	|	 
+3	|	Eutermellus bipartitus	|	 	|	 
+3	|	Eutermellus convergens	|	 	|	 
+3	|	Eutermellus undulans	|	 	|	 
+1	|	Fastigitermes jucundus	|	 	|	377909
+3	|	Firmitermes abyssinicus	|	 	|	 
+3	|	Foraminitermes coatoni	|	 	|	 
+3	|	Foraminitermes corniferus	|	 	|	 
+3	|	Foraminitermes harrisi	|	 	|	 
+1	|	Foraminitermes rhinoceros	|	 	|	1934485
+3	|	Foraminitermes tubifrons	|	 	|	 
+1	|	Foraminitermes valens	|	 	|	201573
+3	|	Forficulitermes planifrons	|	 	|	 
+1	|	Fulleritermes coatoni	|	 	|	377910
+3	|	Fulleritermes contractus	|	 	|	 
+3	|	Fulleritermes mallyi	|	 	|	 
+1	|	Fulleritermes tenebricus	|	 	|	1042818
+3	|	Furculitermes brevilabius	|	 	|	 
+3	|	Furculitermes brevimalatus	|	 	|	 
+1	|	Furculitermes cubitalis	|	 	|	1934486
+3	|	Furculitermes hendrickxi	|	 	|	 
+1	|	Furculitermes longilabius	|	 	|	1934487
+3	|	Furculitermes parviceps	|	 	|	 
+1	|	Furculitermes soyeri	|	 	|	1934488
+1	|	Furculitermes winifredae	|	 	|	1934489
+1	|	Genuotermes spinifer	|	 	|	1972827
+1	|	Globitermes brachycerastes	|	 	|	574770
+1	|	Globitermes globosus	|	 	|	187539
+3	|	Globitermes menglaensis	|	 	|	 
+3	|	Globitermes mengpengensis	|	 	|	 
+3	|	Globitermes minor	|	 	|	 
+1	|	Globitermes sulphureus	|	 	|	229677
+3	|	Globitermes vadaensis	|	 	|	 
+1	|	Glossotermes oculatus	|	 	|	280691
+3	|	Glossotermes sulcatus	|	 	|	 
+3	|	Glyptotermes adamsoni	|	 	|	 
+3	|	Glyptotermes almorensis	|	 	|	 
+3	|	Glyptotermes amplus	|	 	|	 
+3	|	Glyptotermes angustithorax	|	 	|	 
+1	|	Glyptotermes angustus	|	 	|	2052659
+3	|	Glyptotermes arshadi	|	 	|	 
+3	|	Glyptotermes asperatus	|	 	|	 
+3	|	Glyptotermes baliochilus	|	 	|	 
+1	|	Glyptotermes barretti	|	 	|	1889898
+3	|	Glyptotermes besarensis	|	 	|	 
+3	|	Glyptotermes bilobatus	|	 	|	 
+3	|	Glyptotermes bimaculifrons	|	 	|	 
+3	|	Glyptotermes borneensis	|	 	|	 
+3	|	Glyptotermes brachythorax	|	 	|	 
+3	|	Glyptotermes brevicaudatus	|	 	|	 
+1	|	Glyptotermes brevicornis	|	 	|	105788
+3	|	Glyptotermes buttelreepeni	|	 	|	 
+3	|	Glyptotermes canellae	|	 	|	 
+3	|	Glyptotermes caudomunitus	|	 	|	 
+3	|	Glyptotermes ceylonicus	|	 	|	 
+3	|	Glyptotermes chapmani	|	 	|	 
+3	|	Glyptotermes chatterjii	|	 	|	 
+3	|	Glyptotermes chinpingensis	|	 	|	 
+3	|	Glyptotermes concavifrons	|	 	|	 
+3	|	Glyptotermes contracticornis	|	 	|	 
+3	|	Glyptotermes coorgensis	|	 	|	 
+3	|	Glyptotermes curticeps	|	 	|	 
+3	|	Glyptotermes daiyunensis	|	 	|	 
+3	|	Glyptotermes daweishanensis	|	 	|	 
+3	|	Glyptotermes dentatus	|	 	|	 
+3	|	Glyptotermes dilatatus	|	 	|	 
+3	|	Glyptotermes emei	|	 	|	 
+3	|	Glyptotermes eucalypti	|	 	|	 
+3	|	Glyptotermes euryceps	|	 	|	 
+3	|	Glyptotermes ficus	|	 	|	 
+3	|	Glyptotermes finniganensis	|	 	|	 
+3	|	Glyptotermes franciae	|	 	|	 
+3	|	Glyptotermes fujianensis	|	 	|	 
+1	|	Glyptotermes fuscus	|	 	|	60575
+3	|	Glyptotermes guamensis	|	 	|	 
+3	|	Glyptotermes guianaensis	|	 	|	 
+3	|	Glyptotermes guizhouensis	|	 	|	 
+3	|	Glyptotermes hejiangensis	|	 	|	 
+3	|	Glyptotermes hendrickxi	|	 	|	 
+3	|	Glyptotermes hesperus	|	 	|	 
+3	|	Glyptotermes hospitalis	|	 	|	 
+3	|	Glyptotermes ignotus	|	 	|	 
+3	|	Glyptotermes insulanus	|	 	|	 
+1	|	Glyptotermes iridipennis	|	 	|	105790
+3	|	Glyptotermes jinyunensis	|	 	|	 
+3	|	Glyptotermes jurioni	|	 	|	 
+3	|	Glyptotermes kachongensis	|	 	|	 
+3	|	Glyptotermes kawandae	|	 	|	 
+3	|	Glyptotermes kirbyi	|	 	|	 
+3	|	Glyptotermes kunakensis	|	 	|	 
+3	|	Glyptotermes laticaudomunitus	|	 	|	 
+3	|	Glyptotermes latignathus	|	 	|	 
+3	|	Glyptotermes latithorax	|	 	|	 
+3	|	Glyptotermes liangshanensis	|	 	|	 
+3	|	Glyptotermes liberatus	|	 	|	 
+3	|	Glyptotermes lighti	|	 	|	 
+3	|	Glyptotermes limulingensis	|	 	|	 
+3	|	Glyptotermes longipennis	|	 	|	 
+3	|	Glyptotermes longnanensis	|	 	|	 
+3	|	Glyptotermes longuisculus	|	 	|	 
+3	|	Glyptotermes luteus	|	 	|	 
+3	|	Glyptotermes maculifrons	|	 	|	 
+3	|	Glyptotermes magnioculus	|	 	|	 
+3	|	Glyptotermes magsaysayi	|	 	|	 
+3	|	Glyptotermes mandibulicinus	|	 	|	 
+3	|	Glyptotermes marlatti	|	 	|	 
+3	|	Glyptotermes minutus	|	 	|	 
+3	|	Glyptotermes montanus	|	 	|	 
+3	|	Glyptotermes nadaensis	|	 	|	 
+1	|	Glyptotermes nakajimai	|	 	|	64670
+3	|	Glyptotermes neoborneensis	|	 	|	 
+3	|	Glyptotermes nevermani	|	 	|	 
+3	|	Glyptotermes nicobarensis	|	 	|	 
+3	|	Glyptotermes niger	|	 	|	 
+3	|	Glyptotermes nissanensis	|	 	|	 
+3	|	Glyptotermes orthognathus	|	 	|	 
+3	|	Glyptotermes palauensis	|	 	|	 
+3	|	Glyptotermes panaitanensis	|	 	|	 
+3	|	Glyptotermes paracaudomunitus	|	 	|	 
+3	|	Glyptotermes paratuberculatus	|	 	|	 
+3	|	Glyptotermes parki	|	 	|	 
+3	|	Glyptotermes parvoculatus	|	 	|	 
+1	|	Glyptotermes parvulus	|	 	|	2603943
+3	|	Glyptotermes parvus	|	 	|	 
+3	|	Glyptotermes pellucidus	|	 	|	 
+3	|	Glyptotermes perparvus	|	 	|	 
+3	|	Glyptotermes pinangae	|	 	|	 
+3	|	Glyptotermes planus	|	 	|	 
+3	|	Glyptotermes posticus	|	 	|	 
+3	|	Glyptotermes pubescens	|	 	|	 
+3	|	Glyptotermes reticulatus	|	 	|	 
+3	|	Glyptotermes rotundifrons	|	 	|	 
+1	|	Glyptotermes satsumensis	|	 	|	280678
+3	|	Glyptotermes schmidti	|	 	|	 
+3	|	Glyptotermes scotti	|	 	|	 
+3	|	Glyptotermes seeversi	|	 	|	 
+3	|	Glyptotermes sensarmai	|	 	|	 
+3	|	Glyptotermes sepilokensis	|	 	|	 
+3	|	Glyptotermes shaanxiensis	|	 	|	 
+3	|	Glyptotermes sicki	|	 	|	 
+3	|	Glyptotermes simaoensis	|	 	|	 
+3	|	Glyptotermes sinomalatus	|	 	|	 
+3	|	Glyptotermes succineus	|	 	|	 
+3	|	Glyptotermes suturis	|	 	|	 
+3	|	Glyptotermes taruni	|	 	|	 
+3	|	Glyptotermes taveuniensis	|	 	|	 
+3	|	Glyptotermes teknafensis	|	 	|	 
+3	|	Glyptotermes thailandis	|	 	|	 
+3	|	Glyptotermes tikaderi	|	 	|	 
+3	|	Glyptotermes tripurensis	|	 	|	 
+3	|	Glyptotermes truncatus	|	 	|	 
+3	|	Glyptotermes tsaii	|	 	|	 
+1	|	Glyptotermes tuberculatus	|	 	|	105791
+3	|	Glyptotermes tuberifer	|	 	|	 
+3	|	Glyptotermes ueleensis	|	 	|	 
+3	|	Glyptotermes ukhiaensis	|	 	|	 
+3	|	Glyptotermes verrucosus	|	 	|	 
+3	|	Glyptotermes xantholabrum	|	 	|	 
+3	|	Glyptotermes xiamenensis	|	 	|	 
+3	|	Glyptotermes yingdeensis	|	 	|	 
+3	|	Glyptotermes yui	|	 	|	 
+3	|	Glyptotermes zhaoi	|	 	|	 
+3	|	Gnathamitermes grandis	|	 	|	 
+3	|	Gnathamitermes nigriceps	|	 	|	 
+3	|	Gnathamitermes perplexus	|	 	|	 
+3	|	Gnathamitermes tubiformans	|	 	|	 
+3	|	Grallatotermes admirabilus	|	 	|	 
+3	|	Grallatotermes africanus	|	 	|	 
+3	|	Grallatotermes grallator	|	 	|	 
+3	|	Grallatotermes grallatoriformis	|	 	|	 
+3	|	Grallatotermes niger	|	 	|	 
+3	|	Grallatotermes splendidus	|	 	|	 
+3	|	Grallatotermes weyeri	|	 	|	 
+1	|	Grigiotermes hageni	|	 	|	1778920
+3	|	Hapsidotermes harrisi	|	 	|	 
+3	|	Hapsidotermes labellus	|	 	|	 
+3	|	Hapsidotermes longius	|	 	|	 
+3	|	Hapsidotermes maideni	|	 	|	 
+3	|	Hapsidotermes orbus	|	 	|	 
+3	|	Heimitermes laticeps	|	 	|	 
+3	|	Heimitermes moorei	|	 	|	 
+3	|	Hesperotermes infrequens	|	 	|	 
+3	|	Heterotermes aethiopicus	|	 	|	 
+1	|	Heterotermes assu	|	 	|	256711
+1	|	Heterotermes aureus	|	 	|	256708
+3	|	Heterotermes balwanti	|	 	|	 
+3	|	Heterotermes brevicatena	|	 	|	 
+1	|	Heterotermes cardini	|	 	|	256706
+3	|	Heterotermes ceylonicus	|	 	|	 
+1	|	Heterotermes convexinotatus	|	 	|	256707
+1	|	Heterotermes crinitus	|	 	|	1367271
+1	|	Heterotermes ferox	|	 	|	232793
+3	|	Heterotermes gertrudae	|	 	|	 
+1	|	Heterotermes indicola	|	 	|	1255085
+3	|	Heterotermes intermedius	|	 	|	 
+3	|	Heterotermes longicatena	|	 	|	 
+1	|	Heterotermes longiceps	|	 	|	280682
+3	|	Heterotermes maculatus	|	 	|	 
+1	|	Heterotermes malabaricus	|	 	|	1826158
+3	|	Heterotermes occiduus	|	 	|	 
+3	|	Heterotermes omanae	|	 	|	 
+3	|	Heterotermes pamatatensis	|	 	|	 
+1	|	Heterotermes paradoxus	|	 	|	1826061
+3	|	Heterotermes perfidus	|	 	|	 
+3	|	Heterotermes philippinensis	|	 	|	 
+1	|	Heterotermes platycephalus	|	 	|	377913
+1	|	Heterotermes sulcatus	|	 	|	2507937
+1	|	Heterotermes tenuior	|	 	|	127379
+1	|	Heterotermes tenuis	|	 	|	256704
+1	|	Heterotermes vagus	|	 	|	448105
+1	|	Heterotermes validus	|	 	|	1826159
+3	|	Heterotermes wittmeri	|	 	|	 
+3	|	Hirtitermes brabazoni	|	 	|	 
+1	|	Hirtitermes hirtiventris	|	 	|	1934491
+3	|	Hirtitermes spinocephalus	|	 	|	 
+3	|	Hodotermes erithreensis	|	 	|	 
+1	|	Hodotermes mossambicus	|	 	|	187541
+1	|	Hodotermopsis sjostedti	|	 	|	377914
+1	|	Homallotermes eleanorae	|	 	|	377915
+3	|	Homallotermes exiguus	|	 	|	 
+1	|	Homallotermes foraminifer	|	 	|	1934493
+3	|	Homallotermes pilosus	|	 	|	 
+3	|	Hoplognathotermes angolensis	|	 	|	 
+3	|	Hoplognathotermes submissus	|	 	|	 
+3	|	Hoplognathotermes subterraneus	|	 	|	 
+3	|	Hoplotermes amplus	|	 	|	 
+3	|	Hospitalitermes asahinai	|	 	|	 
+1	|	Hospitalitermes ataramensis	|	 	|	229654
+1	|	Hospitalitermes bicolor	|	 	|	325824
+3	|	Hospitalitermes birmanicus	|	 	|	 
+3	|	Hospitalitermes blairi	|	 	|	 
+3	|	Hospitalitermes brevirostratus	|	 	|	 
+3	|	Hospitalitermes butteli	|	 	|	 
+3	|	Hospitalitermes damenglongensis	|	 	|	 
+3	|	Hospitalitermes diurnus	|	 	|	 
+3	|	Hospitalitermes ferrugineus	|	 	|	 
+3	|	Hospitalitermes flaviventris	|	 	|	 
+3	|	Hospitalitermes flavoantennaris	|	 	|	 
+3	|	Hospitalitermes grassii	|	 	|	 
+1	|	Hospitalitermes hospitalis	|	 	|	377916
+3	|	Hospitalitermes irianensis	|	 	|	 
+3	|	Hospitalitermes javanicus	|	 	|	 
+1	|	Hospitalitermes jepsoni	|	 	|	229655
+3	|	Hospitalitermes jinghongensis	|	 	|	 
+3	|	Hospitalitermes kali	|	 	|	 
+3	|	Hospitalitermes krishnai	|	 	|	 
+3	|	Hospitalitermes lividiceps	|	 	|	 
+3	|	Hospitalitermes madrasi	|	 	|	 
+3	|	Hospitalitermes majusculus	|	 	|	 
+1	|	Hospitalitermes medioflavus	|	 	|	62943
+3	|	Hospitalitermes moluccanus	|	 	|	 
+1	|	Hospitalitermes monoceros	|	 	|	377917
+3	|	Hospitalitermes nemorosus	|	 	|	 
+3	|	Hospitalitermes nicobarensis	|	 	|	 
+3	|	Hospitalitermes nigriantennalis	|	 	|	 
+3	|	Hospitalitermes papuanus	|	 	|	 
+3	|	Hospitalitermes paraschmidti	|	 	|	 
+3	|	Hospitalitermes proflaviventris	|	 	|	 
+3	|	Hospitalitermes rufus	|	 	|	 
+3	|	Hospitalitermes schmidti	|	 	|	 
+3	|	Hospitalitermes seikii	|	 	|	 
+3	|	Hospitalitermes sharpi	|	 	|	 
+1	|	Hospitalitermes umbrinus	|	 	|	1449738
+1	|	Humutermes krishnai	|	 	|	1778927
+3	|	Humutermes noiroti	|	 	|	 
+1	|	Hydrecotermes arienesho	|	 	|	1778929
+1	|	Hydrecotermes kawaii	|	 	|	1778930
+3	|	Hypotermes bawanensis	|	 	|	 
+1	|	Hypotermes makhamensis	|	 	|	229714
+3	|	Hypotermes manyunensis	|	 	|	 
+3	|	Hypotermes meiziensis	|	 	|	 
+3	|	Hypotermes mengdingensis	|	 	|	 
+1	|	Hypotermes obscuriceps	|	 	|	377919
+3	|	Hypotermes ruiliensis	|	 	|	 
+3	|	Hypotermes sumatrensis	|	 	|	 
+3	|	Hypotermes wandingensis	|	 	|	 
+3	|	Hypotermes wayaoensis	|	 	|	 
+3	|	Hypotermes winifredi	|	 	|	 
+1	|	Hypotermes xenotermitis	|	 	|	73855
+3	|	Hypotermes yingjiangensis	|	 	|	 
+1	|	Ibitermes curupira	|	 	|	1972828
+3	|	Ibitermes inflatus	|	 	|	 
+3	|	Ibitermes tellustris	|	 	|	 
+1	|	Incisitermes banksi	|	 	|	765388
+3	|	Incisitermes barretti	|	 	|	 
+3	|	Incisitermes bequaerti	|	 	|	 
+3	|	Incisitermes didwanaensis	|	 	|	 
+3	|	Incisitermes emersoni	|	 	|	 
+3	|	Incisitermes fruticavus	|	 	|	 
+3	|	Incisitermes furvus	|	 	|	 
+3	|	Incisitermes galapagoensis	|	 	|	 
+1	|	Incisitermes immigrans	|	 	|	104041
+3	|	Incisitermes inamurai	|	 	|	 
+3	|	Incisitermes incisus	|	 	|	 
+3	|	Incisitermes laterangularis	|	 	|	 
+1	|	Incisitermes marginipennis	|	 	|	529878
+3	|	Incisitermes marianus	|	 	|	 
+3	|	Incisitermes mcgregori	|	 	|	 
+1	|	Incisitermes milleri	|	 	|	765389
+1	|	Incisitermes minor	|	 	|	112481
+3	|	Incisitermes nigritus	|	 	|	 
+3	|	Incisitermes nishimurai	|	 	|	 
+3	|	Incisitermes pacificus	|	 	|	 
+3	|	Incisitermes platycephalus	|	 	|	 
+3	|	Incisitermes repandus	|	 	|	 
+3	|	Incisitermes rhyzophorae	|	 	|	 
+1	|	Incisitermes schwarzi	|	 	|	765390
+3	|	Incisitermes seeversi	|	 	|	 
+3	|	Incisitermes semilunaris	|	 	|	 
+1	|	Incisitermes snyderi	|	 	|	46566
+3	|	Incisitermes solidus	|	 	|	 
+1	|	Incisitermes tabogae	|	 	|	367367
+3	|	Incisitermes taylori	|	 	|	 
+3	|	Incolitermes pumilus	|	 	|	 
+3	|	Indocapritermes aruni	|	 	|	 
+3	|	Indotermes arshadi	|	 	|	 
+3	|	Indotermes capillosus	|	 	|	 
+3	|	Indotermes hainanensis	|	 	|	 
+3	|	Indotermes isodentatus	|	 	|	 
+3	|	Indotermes luxiensis	|	 	|	 
+3	|	Indotermes maymensis	|	 	|	 
+3	|	Indotermes menggarensis	|	 	|	 
+3	|	Indotermes rongrensis	|	 	|	 
+3	|	Indotermes thailandis	|	 	|	 
+3	|	Indotermes yunnanensis	|	 	|	 
+3	|	Inquilinitermes fur	|	 	|	 
+1	|	Inquilinitermes inquilinus	|	 	|	1934498
+3	|	Inquilinitermes johnchapmani	|	 	|	 
+3	|	Inquilinitermes microcerus	|	 	|	 
+3	|	Invasitermes inermis	|	 	|	 
+3	|	Invasitermes insitivus	|	 	|	 
+1	|	Jugositermes tuberculatus	|	 	|	377920
+1	|	Kalotermes aemulus	|	 	|	105793
+1	|	Kalotermes approximatus	|	 	|	1507047
+3	|	Kalotermes atratus	|	 	|	 
+3	|	Kalotermes banksiae	|	 	|	 
+1	|	Kalotermes brouni	|	 	|	105794
+3	|	Kalotermes capicola	|	 	|	 
+3	|	Kalotermes cognatus	|	 	|	 
+3	|	Kalotermes convexus	|	 	|	 
+3	|	Kalotermes dispar	|	 	|	 
+1	|	Kalotermes flavicollis	|	 	|	256709
+3	|	Kalotermes gracilignathus	|	 	|	 
+1	|	Kalotermes hilli	|	 	|	105795
+3	|	Kalotermes isaloensis	|	 	|	 
+1	|	Kalotermes italicus	|	 	|	1461345
+3	|	Kalotermes jepsoni	|	 	|	 
+3	|	Kalotermes monticola	|	 	|	 
+1	|	Kalotermes pallidinotum	|	 	|	105796
+3	|	Kalotermes phoeniciae	|	 	|	 
+1	|	Kalotermes rufinotum	|	 	|	105797
+3	|	Kalotermes serrulatus	|	 	|	 
+3	|	Kalotermes umtatae	|	 	|	 
+3	|	Kaudernitermes kaudernianus	|	 	|	 
+3	|	Kaudernitermes laticeps	|	 	|	 
+3	|	Kaudernitermes nigritus	|	 	|	 
+3	|	Kaudernitermes salebrithorax	|	 	|	 
+1	|	Kemneritermes sarawakensis	|	 	|	187543
+1	|	Krishnacapritermes dineshan	|	 	|	2662079
+3	|	Krishnacapritermes maitii	|	 	|	 
+3	|	Krishnacapritermes manikandan	|	 	|	 
+1	|	Krishnacapritermes thakuri	|	 	|	2662080
+3	|	Labidotermes celisi	|	 	|	 
+3	|	Labiocapritermes distortus	|	 	|	 
+3	|	Labiotermes brevilabius	|	 	|	 
+1	|	Labiotermes emersoni	|	 	|	1972829
+3	|	Labiotermes guasu	|	 	|	 
+1	|	Labiotermes labralis	|	 	|	370423
+3	|	Labiotermes laticephalus	|	 	|	 
+1	|	Labiotermes leptothrix	|	 	|	1972830
+3	|	Labiotermes longilabius	|	 	|	 
+3	|	Labiotermes oreadicus	|	 	|	 
+1	|	Labiotermes orthocephalus	|	 	|	1972831
+3	|	Labiotermes pelliceus	|	 	|	 
+1	|	Labritermes buttelreepeni	|	 	|	377922
+3	|	Labritermes emersoni	|	 	|	 
+3	|	Labritermes kistneri	|	 	|	 
+3	|	Lacessititermes albipes	|	 	|	 
+3	|	Lacessititermes atrior	|	 	|	 
+3	|	Lacessititermes batavus	|	 	|	 
+3	|	Lacessititermes breviarticulatus	|	 	|	 
+3	|	Lacessititermes cuphus	|	 	|	 
+3	|	Lacessititermes filicornis	|	 	|	 
+3	|	Lacessititermes holmgreni	|	 	|	 
+3	|	Lacessititermes jacobsoni	|	 	|	 
+3	|	Lacessititermes kolapisensis	|	 	|	 
+3	|	Lacessititermes laborator	|	 	|	 
+3	|	Lacessititermes lacessitiformis	|	 	|	 
+3	|	Lacessititermes lacessitus	|	 	|	 
+3	|	Lacessititermes longinasus	|	 	|	 
+3	|	Lacessititermes palawanensis	|	 	|	 
+3	|	Lacessititermes piliferus	|	 	|	 
+3	|	Lacessititermes ransoneti	|	 	|	 
+3	|	Lacessititermes saraiensis	|	 	|	 
+3	|	Lacessititermes sordidus	|	 	|	 
+3	|	Lacessititermes thailandicus	|	 	|	 
+3	|	Lacessititermes yamanei	|	 	|	 
+3	|	Lepidotermes amydrus	|	 	|	 
+3	|	Lepidotermes goliathi	|	 	|	 
+3	|	Lepidotermes lounsburyi	|	 	|	 
+3	|	Lepidotermes mtwalumi	|	 	|	 
+3	|	Lepidotermes planifacies	|	 	|	 
+3	|	Lepidotermes pretoriensis	|	 	|	 
+3	|	Lepidotermes scalenus	|	 	|	 
+3	|	Lepidotermes simplex	|	 	|	 
+3	|	Lepidotermes vastus	|	 	|	 
+1	|	Leptomyxotermes doriae	|	 	|	377923
+3	|	Leucopitermes leucopiformis	|	 	|	 
+1	|	Leucopitermes leucops	|	 	|	377924
+3	|	Leucopitermes paraleucops	|	 	|	 
+3	|	Leucopitermes thoi	|	 	|	 
+1	|	Longicaputermes sinaicus	|	 	|	1461343
+3	|	Longipeditermes kistneri	|	 	|	 
+1	|	Longipeditermes longipes	|	 	|	62737
+1	|	Longustitermes manni	|	 	|	948542
+3	|	Lophotermes aduncus	|	 	|	 
+3	|	Lophotermes brevicephalus	|	 	|	 
+3	|	Lophotermes crinitus	|	 	|	 
+3	|	Lophotermes leptognathus	|	 	|	 
+3	|	Lophotermes parvicornis	|	 	|	 
+3	|	Lophotermes pectinatus	|	 	|	 
+3	|	Lophotermes pusillus	|	 	|	 
+3	|	Lophotermes quadratus	|	 	|	 
+1	|	Lophotermes septentrionalis	|	 	|	448106
+3	|	Machadotermes inflatus	|	 	|	 
+3	|	Machadotermes latus	|	 	|	 
+3	|	Machadotermes rigidus	|	 	|	 
+3	|	Macrognathotermes broomensis	|	 	|	 
+1	|	Macrognathotermes errator	|	 	|	1199065
+3	|	Macrognathotermes prolatus	|	 	|	 
+1	|	Macrognathotermes sunteri	|	 	|	377925
+3	|	Macrorhinotermes maximus	|	 	|	 
+3	|	Macrosubulitermes greavesi	|	 	|	 
+1	|	Macrotermes acrocephalus	|	 	|	1964431
+1	|	Macrotermes ahmadi	|	 	|	201576
+3	|	Macrotermes aleemi	|	 	|	 
+3	|	Macrotermes amplus	|	 	|	 
+1	|	Macrotermes annandalei	|	 	|	229720
+1	|	Macrotermes barneyi	|	 	|	46573
+3	|	Macrotermes beaufortensis	|	 	|	 
+1	|	Macrotermes bellicosus	|	 	|	201577
+1	|	Macrotermes carbonarius	|	 	|	144742
+1	|	Macrotermes chaiglomi	|	 	|	437801
+1	|	Macrotermes chebalingensis	|	 	|	1964432
+1	|	Macrotermes choui	|	 	|	1964433
+3	|	Macrotermes constrictus	|	 	|	 
+1	|	Macrotermes convulsionarius	|	 	|	1198111
+1	|	Macrotermes declivatus	|	 	|	1964434
+3	|	Macrotermes denticulatus	|	 	|	 
+1	|	Macrotermes falciger	|	 	|	138606
+1	|	Macrotermes gilvus	|	 	|	62961
+3	|	Macrotermes gratus	|	 	|	 
+1	|	Macrotermes guangxiensis	|	 	|	1964435
+1	|	Macrotermes hainanensis	|	 	|	1964436
+1	|	Macrotermes herus	|	 	|	445442
+3	|	Macrotermes hopini	|	 	|	 
+1	|	Macrotermes incisus	|	 	|	1964437
+3	|	Macrotermes ituriensis	|	 	|	 
+1	|	Macrotermes ivorensis	|	 	|	377926
+1	|	Macrotermes jinghongensis	|	 	|	1964438
+3	|	Macrotermes khajuriai	|	 	|	 
+3	|	Macrotermes latignathus	|	 	|	 
+1	|	Macrotermes lilljeborgi	|	 	|	201578
+3	|	Macrotermes longiceps	|	 	|	 
+1	|	Macrotermes longimentis	|	 	|	1964440
+1	|	Macrotermes luokengensis	|	 	|	1964441
+3	|	Macrotermes maesodensis	|	 	|	 
+1	|	Macrotermes malaccensis	|	 	|	201579
+1	|	Macrotermes meidoensis	|	 	|	1964442
+1	|	Macrotermes menglongensis	|	 	|	1964443
+1	|	Macrotermes michaelseni	|	 	|	105431
+1	|	Macrotermes natalensis	|	 	|	315803
+3	|	Macrotermes niger	|	 	|	 
+1	|	Macrotermes nobilis	|	 	|	201581
+1	|	Macrotermes orthognathus	|	 	|	1964444
+3	|	Macrotermes peritrimorphus	|	 	|	 
+3	|	Macrotermes planicapitatus	|	 	|	 
+3	|	Macrotermes probeaufortensis	|	 	|	 
+3	|	Macrotermes renouxi	|	 	|	 
+3	|	Macrotermes serrulatus	|	 	|	 
+3	|	Macrotermes singaporensis	|	 	|	 
+1	|	Macrotermes subhyalinus	|	 	|	138608
+3	|	Macrotermes trapezoides	|	 	|	 
+1	|	Macrotermes trimorphus	|	 	|	1964445
+3	|	Macrotermes ukuzii	|	 	|	 
+1	|	Macrotermes vitrialatus	|	 	|	1934505
+1	|	Macrotermes yunnanensis	|	 	|	983325
+1	|	Macrotermes zhejiangensis	|	 	|	1964446
+1	|	Macrotermes zhui	|	 	|	1964439
+3	|	Macuxitermes colombicus	|	 	|	 
+1	|	Macuxitermes triceratops	|	 	|	1972832
+1	|	Malagasitermes milloti	|	 	|	377928
+3	|	Malaysiotermes holmgreni	|	 	|	 
+1	|	Malaysiotermes spinocephalus	|	 	|	377929
+3	|	Mapinguaritermes grandidens	|	 	|	 
+1	|	Mapinguaritermes peruanus	|	 	|	1972833
+3	|	Marginitermes absitus	|	 	|	 
+3	|	Marginitermes cactiphagus	|	 	|	 
+3	|	Marginitermes hubbardi	|	 	|	 
+1	|	Mastotermes darwiniensis	|	 	|	13139
+3	|	Megagnathotermes katangensis	|	 	|	 
+3	|	Megagnathotermes notandus	|	 	|	 
+3	|	Megaprotermes giffardii	|	 	|	 
+3	|	Microcerotermes acerbus	|	 	|	 
+3	|	Microcerotermes algoasinensis	|	 	|	 
+3	|	Microcerotermes amboinensis	|	 	|	 
+1	|	Microcerotermes annandalei	|	 	|	229660
+3	|	Microcerotermes apricitatis	|	 	|	 
+1	|	Microcerotermes arboreus	|	 	|	377930
+1	|	Microcerotermes baluchistanicus	|	 	|	1934506
+3	|	Microcerotermes barbertoni	|	 	|	 
+1	|	Microcerotermes beesoni	|	 	|	1231260
+3	|	Microcerotermes bequaertianus	|	 	|	 
+1	|	Microcerotermes biroi	|	 	|	1576341
+3	|	Microcerotermes biswanathae	|	 	|	 
+1	|	Microcerotermes boreus	|	 	|	448107
+3	|	Microcerotermes bouilloni	|	 	|	 
+3	|	Microcerotermes bouvieri	|	 	|	 
+3	|	Microcerotermes brachygnathus	|	 	|	 
+1	|	Microcerotermes brevior	|	 	|	1586082
+3	|	Microcerotermes buettikeri	|	 	|	 
+3	|	Microcerotermes bugnioni	|	 	|	 
+3	|	Microcerotermes cachani	|	 	|	 
+3	|	Microcerotermes cameroni	|	 	|	 
+3	|	Microcerotermes cavus	|	 	|	 
+3	|	Microcerotermes celebensis	|	 	|	 
+3	|	Microcerotermes chaudhryi	|	 	|	 
+3	|	Microcerotermes chhotanii	|	 	|	 
+3	|	Microcerotermes choanensis	|	 	|	 
+3	|	Microcerotermes collinsi	|	 	|	 
+1	|	Microcerotermes crassus	|	 	|	229659
+3	|	Microcerotermes cupreiceps	|	 	|	 
+3	|	Microcerotermes cylindriceps	|	 	|	 
+3	|	Microcerotermes dammermani	|	 	|	 
+3	|	Microcerotermes danieli	|	 	|	 
+3	|	Microcerotermes dashlibronensis	|	 	|	 
+3	|	Microcerotermes debilicornis	|	 	|	 
+3	|	Microcerotermes depokensis	|	 	|	 
+3	|	Microcerotermes distans	|	 	|	 
+3	|	Microcerotermes distinctus	|	 	|	 
+1	|	Microcerotermes diversus	|	 	|	732581
+3	|	Microcerotermes dolichocephalicus	|	 	|	 
+3	|	Microcerotermes dolichognathus	|	 	|	 
+3	|	Microcerotermes dumasensis	|	 	|	 
+3	|	Microcerotermes dumisae	|	 	|	 
+3	|	Microcerotermes duplex	|	 	|	 
+3	|	Microcerotermes durbanensis	|	 	|	 
+3	|	Microcerotermes edentatus	|	 	|	 
+3	|	Microcerotermes elegans	|	 	|	 
+1	|	Microcerotermes eugnathus	|	 	|	1922278
+3	|	Microcerotermes exiguus	|	 	|	 
+1	|	Microcerotermes fletcheri	|	 	|	1882572
+3	|	Microcerotermes flyensis	|	 	|	 
+1	|	Microcerotermes fuscotibialis	|	 	|	1934507
+1	|	Microcerotermes gabrielis	|	 	|	2583744
+3	|	Microcerotermes ganeshi	|	 	|	 
+3	|	Microcerotermes gracilis	|	 	|	 
+3	|	Microcerotermes greeni	|	 	|	 
+3	|	Microcerotermes hamatus	|	 	|	 
+1	|	Microcerotermes havilandi	|	 	|	1934508
+3	|	Microcerotermes heimi	|	 	|	 
+3	|	Microcerotermes hypaenicus	|	 	|	 
+3	|	Microcerotermes ilalazonatus	|	 	|	 
+3	|	Microcerotermes implacidus	|	 	|	 
+3	|	Microcerotermes indistinctus	|	 	|	 
+3	|	Microcerotermes insularis	|	 	|	 
+3	|	Microcerotermes kudremukhae	|	 	|	 
+3	|	Microcerotermes kwazulu	|	 	|	 
+3	|	Microcerotermes labioangulatus	|	 	|	 
+3	|	Microcerotermes lahorensis	|	 	|	 
+3	|	Microcerotermes lateralis	|	 	|	 
+3	|	Microcerotermes laticeps	|	 	|	 
+3	|	Microcerotermes laxmi	|	 	|	 
+3	|	Microcerotermes leai	|	 	|	 
+3	|	Microcerotermes limpopoensis	|	 	|	 
+3	|	Microcerotermes longiceps	|	 	|	 
+3	|	Microcerotermes longignathus	|	 	|	 
+3	|	Microcerotermes longimalatus	|	 	|	 
+3	|	Microcerotermes losbanosensis	|	 	|	 
+3	|	Microcerotermes luluai	|	 	|	 
+3	|	Microcerotermes macacoensis	|	 	|	 
+3	|	Microcerotermes madurae	|	 	|	 
+3	|	Microcerotermes major	|	 	|	 
+3	|	Microcerotermes maliki	|	 	|	 
+3	|	Microcerotermes malmesburyi	|	 	|	 
+3	|	Microcerotermes mandibularis	|	 	|	 
+3	|	Microcerotermes manjikuli	|	 	|	 
+3	|	Microcerotermes marilimbus	|	 	|	 
+3	|	Microcerotermes masaiaticus	|	 	|	 
+3	|	Microcerotermes minor	|	 	|	 
+1	|	Microcerotermes minutus	|	 	|	297546
+3	|	Microcerotermes mzilikazi	|	 	|	 
+3	|	Microcerotermes nanulus	|	 	|	 
+3	|	Microcerotermes nanus	|	 	|	 
+3	|	Microcerotermes nemoralis	|	 	|	 
+1	|	Microcerotermes nervosus	|	 	|	327081
+1	|	Microcerotermes newmani	|	 	|	377932
+3	|	Microcerotermes nicobarensis	|	 	|	 
+3	|	Microcerotermes novaecaledoniae	|	 	|	 
+1	|	Microcerotermes pakistanicus	|	 	|	1882573
+3	|	Microcerotermes palaearcticus	|	 	|	 
+1	|	Microcerotermes palestinensis	|	 	|	1922279
+3	|	Microcerotermes papuanus	|	 	|	 
+1	|	Microcerotermes paracelebensis	|	 	|	229661
+3	|	Microcerotermes parviceps	|	 	|	 
+3	|	Microcerotermes parvulus	|	 	|	 
+1	|	Microcerotermes parvus	|	 	|	187517
+3	|	Microcerotermes pauliani	|	 	|	 
+3	|	Microcerotermes peraffinis	|	 	|	 
+3	|	Microcerotermes periminutus	|	 	|	 
+3	|	Microcerotermes philippinensis	|	 	|	 
+3	|	Microcerotermes piliceps	|	 	|	 
+3	|	Microcerotermes pondweniensis	|	 	|	 
+3	|	Microcerotermes prochampioni	|	 	|	 
+1	|	Microcerotermes progrediens	|	 	|	1934510
+3	|	Microcerotermes propinquus	|	 	|	 
+3	|	Microcerotermes psammophilus	|	 	|	 
+3	|	Microcerotermes raja	|	 	|	 
+3	|	Microcerotermes rambanensis	|	 	|	 
+3	|	Microcerotermes remotus	|	 	|	 
+3	|	Microcerotermes repugnans	|	 	|	 
+3	|	Microcerotermes rhombinidus	|	 	|	 
+3	|	Microcerotermes sabaeus	|	 	|	 
+3	|	Microcerotermes sabahensis	|	 	|	 
+3	|	Microcerotermes sakarahensis	|	 	|	 
+3	|	Microcerotermes sakesarensis	|	 	|	 
+3	|	Microcerotermes sanctaeluciae	|	 	|	 
+3	|	Microcerotermes saravanensis	|	 	|	 
+3	|	Microcerotermes secernens	|	 	|	 
+3	|	Microcerotermes septentrionalis	|	 	|	 
+1	|	Microcerotermes serratus	|	 	|	377933
+3	|	Microcerotermes shahroudiensis	|	 	|	 
+1	|	Microcerotermes sikorae	|	 	|	674891
+3	|	Microcerotermes silvestrianus	|	 	|	 
+3	|	Microcerotermes sistaniensis	|	 	|	 
+3	|	Microcerotermes solidus	|	 	|	 
+3	|	Microcerotermes strunckii	|	 	|	 
+3	|	Microcerotermes subinteger	|	 	|	 
+3	|	Microcerotermes subtilis	|	 	|	 
+3	|	Microcerotermes taylori	|	 	|	 
+3	|	Microcerotermes tenuignathus	|	 	|	 
+3	|	Microcerotermes theobromae	|	 	|	 
+3	|	Microcerotermes thermarum	|	 	|	 
+3	|	Microcerotermes transiens	|	 	|	 
+3	|	Microcerotermes turkmenicus	|	 	|	 
+3	|	Microcerotermes turneri	|	 	|	 
+3	|	Microcerotermes uncatus	|	 	|	 
+3	|	Microcerotermes unidentatus	|	 	|	 
+3	|	Microcerotermes varaminicus	|	 	|	 
+3	|	Microcerotermes zuluensis	|	 	|	 
+3	|	Microcerotermes zuluoides	|	 	|	 
+3	|	Microhodotermes maroccanus	|	 	|	 
+1	|	Microhodotermes viator	|	 	|	70922
+3	|	Microhodotermes wasmanni	|	 	|	 
+3	|	Microtermes aethiopicus	|	 	|	 
+3	|	Microtermes albinotus	|	 	|	 
+3	|	Microtermes albopartitus	|	 	|	 
+3	|	Microtermes alluaudanus	|	 	|	 
+3	|	Microtermes aluco	|	 	|	 
+3	|	Microtermes baginei	|	 	|	 
+3	|	Microtermes bharatpurensis	|	 	|	 
+3	|	Microtermes bouvieri	|	 	|	 
+3	|	Microtermes calvus	|	 	|	 
+3	|	Microtermes cherberensis	|	 	|	 
+3	|	Microtermes chomaensis	|	 	|	 
+3	|	Microtermes congoensis	|	 	|	 
+3	|	Microtermes darlingtonae	|	 	|	 
+3	|	Microtermes depauperata	|	 	|	 
+3	|	Microtermes divellens	|	 	|	 
+3	|	Microtermes dubius	|	 	|	 
+3	|	Microtermes edwini	|	 	|	 
+3	|	Microtermes etiolatus	|	 	|	 
+3	|	Microtermes feae	|	 	|	 
+1	|	Microtermes grassei	|	 	|	2589828
+3	|	Microtermes havilandi	|	 	|	 
+3	|	Microtermes hollandei	|	 	|	 
+3	|	Microtermes imphalensis	|	 	|	 
+3	|	Microtermes incertoides	|	 	|	 
+3	|	Microtermes incertus	|	 	|	 
+3	|	Microtermes insperatus	|	 	|	 
+3	|	Microtermes jacobsoni	|	 	|	 
+3	|	Microtermes kairoonae	|	 	|	 
+3	|	Microtermes kasaiensis	|	 	|	 
+3	|	Microtermes kauderni	|	 	|	 
+1	|	Microtermes lepidus	|	 	|	2589831
+3	|	Microtermes logani	|	 	|	 
+3	|	Microtermes lokoriensis	|	 	|	 
+3	|	Microtermes lounsburyi	|	 	|	 
+3	|	Microtermes luteus	|	 	|	 
+3	|	Microtermes macronotus	|	 	|	 
+3	|	Microtermes magnocellus	|	 	|	 
+3	|	Microtermes magnoculus	|	 	|	 
+3	|	Microtermes mangzhuangensis	|	 	|	 
+3	|	Microtermes mariae	|	 	|	 
+3	|	Microtermes menglunensis	|	 	|	 
+3	|	Microtermes mengpengensis	|	 	|	 
+3	|	Microtermes microthorax	|	 	|	 
+3	|	Microtermes mokeetsei	|	 	|	 
+3	|	Microtermes mulii	|	 	|	 
+1	|	Microtermes mycophagus	|	 	|	515577
+3	|	Microtermes najdensis	|	 	|	 
+3	|	Microtermes neghelliensis	|	 	|	 
+1	|	Microtermes obesi	|	 	|	229718
+3	|	Microtermes occidentalis	|	 	|	 
+3	|	Microtermes osborni	|	 	|	 
+3	|	Microtermes pallidiventris	|	 	|	 
+3	|	Microtermes pamelae	|	 	|	 
+3	|	Microtermes problematicus	|	 	|	 
+3	|	Microtermes pusillus	|	 	|	 
+3	|	Microtermes redenianus	|	 	|	 
+3	|	Microtermes sakalava	|	 	|	 
+3	|	Microtermes sindensis	|	 	|	 
+3	|	Microtermes sjostedti	|	 	|	 
+3	|	Microtermes somaliensis	|	 	|	 
+3	|	Microtermes subhyalinus	|	 	|	 
+3	|	Microtermes thoracalis	|	 	|	 
+3	|	Microtermes toumodiensis	|	 	|	 
+3	|	Microtermes tragardhi	|	 	|	 
+3	|	Microtermes tsavoensis	|	 	|	 
+1	|	Microtermes unicolor	|	 	|	1231262
+3	|	Microtermes upembae	|	 	|	 
+3	|	Microtermes vadschaggae	|	 	|	 
+3	|	Microtermes yemenensis	|	 	|	 
+3	|	Mimeutermes binghami	|	 	|	 
+3	|	Mimeutermes clypeatus	|	 	|	 
+3	|	Mimeutermes edentatus	|	 	|	 
+3	|	Mimeutermes giffardii	|	 	|	 
+3	|	Mimeutermes majusculus	|	 	|	 
+3	|	Mimeutermes sorex	|	 	|	 
+3	|	Mirocapritermes concaveus	|	 	|	 
+1	|	Mirocapritermes connectens	|	 	|	1934539
+3	|	Mirocapritermes hsuchiafui	|	 	|	 
+3	|	Mirocapritermes jiangchengensis	|	 	|	 
+1	|	Mirocapritermes latignathus	|	 	|	229707
+3	|	Mirocapritermes prewensis	|	 	|	 
+3	|	Mirocapritermes snyderi	|	 	|	 
+3	|	Mirocapritermes valeriae	|	 	|	 
+3	|	Mucrotermes heterochilus	|	 	|	 
+3	|	Mucrotermes osborni	|	 	|	 
+3	|	Muelleritermes fritzi	|	 	|	 
+3	|	Muelleritermes globiceps	|	 	|	 
+3	|	Mycterotermes meringocephalus	|	 	|	 
+3	|	Nasopilotermes jiangxiensis	|	 	|	 
+1	|	Nasutitermes acajutlae	|	 	|	46571
+1	|	Nasutitermes acangussu	|	 	|	1436838
+3	|	Nasutitermes acutus	|	 	|	 
+3	|	Nasutitermes aduncus	|	 	|	 
+3	|	Nasutitermes alticola	|	 	|	 
+3	|	Nasutitermes amboinensis	|	 	|	 
+3	|	Nasutitermes anamalaiensis	|	 	|	 
+3	|	Nasutitermes anjiensis	|	 	|	 
+3	|	Nasutitermes anoniensis	|	 	|	 
+1	|	Nasutitermes aquilinus	|	 	|	1544293
+3	|	Nasutitermes araujoi	|	 	|	 
+1	|	Nasutitermes arborum	|	 	|	377938
+3	|	Nasutitermes arenarius	|	 	|	 
+3	|	Nasutitermes aruensis	|	 	|	 
+3	|	Nasutitermes atripennis	|	 	|	 
+3	|	Nasutitermes balingtauagensis	|	 	|	 
+1	|	Nasutitermes banksi	|	 	|	1934542
+3	|	Nasutitermes bannaensis	|	 	|	 
+3	|	Nasutitermes bashanensis	|	 	|	 
+3	|	Nasutitermes benjamini	|	 	|	 
+1	|	Nasutitermes bikpelanus	|	 	|	114632
+1	|	Nasutitermes bivalens	|	 	|	2259541
+3	|	Nasutitermes boengiensis	|	 	|	 
+3	|	Nasutitermes boetoni	|	 	|	 
+3	|	Nasutitermes bolivari	|	 	|	 
+3	|	Nasutitermes bolivianus	|	 	|	 
+3	|	Nasutitermes brachynasutus	|	 	|	 
+3	|	Nasutitermes brevioculatus	|	 	|	 
+1	|	Nasutitermes brevipilus	|	 	|	2698465
+3	|	Nasutitermes brevirostris	|	 	|	 
+3	|	Nasutitermes brunneus	|	 	|	 
+3	|	Nasutitermes bulbiceps	|	 	|	 
+3	|	Nasutitermes bulbus	|	 	|	 
+1	|	Nasutitermes callimorphus	|	 	|	1436843
+3	|	Nasutitermes camerunensis	|	 	|	 
+1	|	Nasutitermes carnarvonensis	|	 	|	1962913
+3	|	Nasutitermes castaneus	|	 	|	 
+3	|	Nasutitermes celebensis	|	 	|	 
+1	|	Nasutitermes centraliensis	|	 	|	1962914
+1	|	Nasutitermes ceylonicus	|	 	|	377940
+3	|	Nasutitermes changningensis	|	 	|	 
+3	|	Nasutitermes chapmani	|	 	|	 
+3	|	Nasutitermes chaquimayensis	|	 	|	 
+3	|	Nasutitermes cherraensis	|	 	|	 
+3	|	Nasutitermes chhotanii	|	 	|	 
+3	|	Nasutitermes choui	|	 	|	 
+3	|	Nasutitermes chrysopleura	|	 	|	 
+1	|	Nasutitermes coalescens	|	 	|	1962915
+3	|	Nasutitermes colimae	|	 	|	 
+3	|	Nasutitermes communis	|	 	|	 
+3	|	Nasutitermes comorensis	|	 	|	 
+3	|	Nasutitermes comstockae	|	 	|	 
+1	|	Nasutitermes corniger	|	 	|	52233
+3	|	Nasutitermes corporaali	|	 	|	 
+1	|	Nasutitermes coxipoensis	|	 	|	1436841
+3	|	Nasutitermes crassicornis	|	 	|	 
+3	|	Nasutitermes crassus	|	 	|	 
+3	|	Nasutitermes curtinasus	|	 	|	 
+1	|	Nasutitermes dasyopsis	|	 	|	377941
+3	|	Nasutitermes dendrophilus	|	 	|	 
+3	|	Nasutitermes devrayi	|	 	|	 
+1	|	Nasutitermes diabolus	|	 	|	1934543
+3	|	Nasutitermes dimorphus	|	 	|	 
+1	|	Nasutitermes dixoni	|	 	|	286184
+3	|	Nasutitermes dobonensis	|	 	|	 
+3	|	Nasutitermes dolichorhinos	|	 	|	 
+3	|	Nasutitermes dudgeoni	|	 	|	 
+3	|	Nasutitermes dunensis	|	 	|	 
+3	|	Nasutitermes ecuadorianus	|	 	|	 
+1	|	Nasutitermes ehrhardti	|	 	|	2259542
+3	|	Nasutitermes elegantulus	|	 	|	 
+3	|	Nasutitermes emersoni	|	 	|	 
+1	|	Nasutitermes ephratae	|	 	|	114633
+1	|	Nasutitermes eucalypti	|	 	|	327063
+1	|	Nasutitermes exitiosus	|	 	|	114634
+3	|	Nasutitermes fabricii	|	 	|	 
+3	|	Nasutitermes falciformis	|	 	|	 
+3	|	Nasutitermes fengkaiensis	|	 	|	 
+3	|	Nasutitermes ferranti	|	 	|	 
+3	|	Nasutitermes feytaudi	|	 	|	 
+3	|	Nasutitermes fletcheri	|	 	|	 
+1	|	Nasutitermes fulleri	|	 	|	377942
+1	|	Nasutitermes fumigatus	|	 	|	232797
+3	|	Nasutitermes fuscipennis	|	 	|	 
+1	|	Nasutitermes gaigei	|	 	|	1428130
+3	|	Nasutitermes gardneri	|	 	|	 
+3	|	Nasutitermes gardneriformis	|	 	|	 
+3	|	Nasutitermes garoensis	|	 	|	 
+1	|	Nasutitermes glabritergus	|	 	|	377943
+1	|	Nasutitermes globiceps	|	 	|	2259543
+3	|	Nasutitermes gracilirostris	|	 	|	 
+3	|	Nasutitermes gracilis	|	 	|	 
+3	|	Nasutitermes grandinasus	|	 	|	 
+1	|	Nasutitermes graveolus	|	 	|	286185
+1	|	Nasutitermes guayanae	|	 	|	297334
+3	|	Nasutitermes guizhouensis	|	 	|	 
+3	|	Nasutitermes haddoensis	|	 	|	 
+3	|	Nasutitermes havilandi	|	 	|	 
+3	|	Nasutitermes hejiangensis	|	 	|	 
+3	|	Nasutitermes heterodon	|	 	|	 
+3	|	Nasutitermes hexianensis	|	 	|	 
+3	|	Nasutitermes hirticeps	|	 	|	 
+3	|	Nasutitermes horni	|	 	|	 
+3	|	Nasutitermes huangshanensis	|	 	|	 
+3	|	Nasutitermes hubbardi	|	 	|	 
+3	|	Nasutitermes inclinasus	|	 	|	 
+1	|	Nasutitermes indicola	|	 	|	1882575
+1	|	Nasutitermes infuscatus	|	 	|	377944
+1	|	Nasutitermes itapocuensis	|	 	|	1853076
+3	|	Nasutitermes jacobsoni	|	 	|	 
+3	|	Nasutitermes jalpaigurensis	|	 	|	 
+1	|	Nasutitermes jaraguae	|	 	|	1853077
+3	|	Nasutitermes javanicus	|	 	|	 
+3	|	Nasutitermes jiangxiensis	|	 	|	 
+1	|	Nasutitermes johoricus	|	 	|	229644
+3	|	Nasutitermes kali	|	 	|	 
+1	|	Nasutitermes kemneri	|	 	|	2259544
+3	|	Nasutitermes kempae	|	 	|	 
+3	|	Nasutitermes kimberleyensis	|	 	|	 
+1	|	Nasutitermes kinoshitai	|	 	|	1777130
+3	|	Nasutitermes koiari	|	 	|	 
+3	|	Nasutitermes krishna	|	 	|	 
+1	|	Nasutitermes lacustris	|	 	|	377945
+1	|	Nasutitermes latifrons	|	 	|	187519
+3	|	Nasutitermes latus	|	 	|	 
+3	|	Nasutitermes leponcei	|	 	|	 
+3	|	Nasutitermes lividus	|	 	|	 
+3	|	Nasutitermes llinquipatensis	|	 	|	 
+3	|	Nasutitermes longiarticulatus	|	 	|	 
+3	|	Nasutitermes longinasoides	|	 	|	 
+1	|	Nasutitermes longinasus	|	 	|	114635
+1	|	Nasutitermes longipennis	|	 	|	286186
+3	|	Nasutitermes longirostratus	|	 	|	 
+1	|	Nasutitermes longirostris	|	 	|	1934544
+3	|	Nasutitermes longwangshanensis	|	 	|	 
+1	|	Nasutitermes lujae	|	 	|	377946
+3	|	Nasutitermes luzonicus	|	 	|	 
+3	|	Nasutitermes machengensis	|	 	|	 
+1	|	Nasutitermes macrocephalus	|	 	|	1934545
+1	|	Nasutitermes magnus	|	 	|	114636
+3	|	Nasutitermes maheensis	|	 	|	 
+1	|	Nasutitermes major	|	 	|	2259545
+3	|	Nasutitermes makassarensis	|	 	|	 
+3	|	Nasutitermes mangshanensis	|	 	|	 
+3	|	Nasutitermes maniseri	|	 	|	 
+1	|	Nasutitermes matangensis	|	 	|	114637
+3	|	Nasutitermes mauritianus	|	 	|	 
+3	|	Nasutitermes maximus	|	 	|	 
+3	|	Nasutitermes medoensis	|	 	|	 
+3	|	Nasutitermes meinerti	|	 	|	 
+3	|	Nasutitermes meridianus	|	 	|	 
+3	|	Nasutitermes mindanensis	|	 	|	 
+3	|	Nasutitermes minimus	|	 	|	 
+3	|	Nasutitermes minor	|	 	|	 
+3	|	Nasutitermes mirabilis	|	 	|	 
+3	|	Nasutitermes mojosensis	|	 	|	 
+3	|	Nasutitermes mollis	|	 	|	 
+3	|	Nasutitermes montanae	|	 	|	 
+3	|	Nasutitermes moratus	|	 	|	 
+3	|	Nasutitermes motu	|	 	|	 
+3	|	Nasutitermes muli	|	 	|	 
+3	|	Nasutitermes myersi	|	 	|	 
+3	|	Nasutitermes neonanus	|	 	|	 
+1	|	Nasutitermes neoparvus	|	 	|	377947
+1	|	Nasutitermes nigriceps	|	 	|	114638
+3	|	Nasutitermes nomadensis	|	 	|	 
+3	|	Nasutitermes nordenskioldi	|	 	|	 
+1	|	Nasutitermes novarumhebridarum	|	 	|	114639
+1	|	Nasutitermes obscurus	|	 	|	1436848
+3	|	Nasutitermes obtusimandibulus	|	 	|	 
+1	|	Nasutitermes octopilis	|	 	|	1367272
+3	|	Nasutitermes oculatus	|	 	|	 
+3	|	Nasutitermes olidus	|	 	|	 
+3	|	Nasutitermes orthonasus	|	 	|	 
+3	|	Nasutitermes oshimai	|	 	|	 
+3	|	Nasutitermes ovatus	|	 	|	 
+3	|	Nasutitermes ovipennis	|	 	|	 
+3	|	Nasutitermes palaoensis	|	 	|	 
+3	|	Nasutitermes panayensis	|	 	|	 
+3	|	Nasutitermes parviceps	|	 	|	 
+1	|	Nasutitermes parvonasutus	|	 	|	114640
+3	|	Nasutitermes parvus	|	 	|	 
+1	|	Nasutitermes perparvus	|	 	|	229643
+3	|	Nasutitermes peruanus	|	 	|	 
+3	|	Nasutitermes pictus	|	 	|	 
+3	|	Nasutitermes pilosus	|	 	|	 
+1	|	Nasutitermes pinocchio	|	 	|	114641
+3	|	Nasutitermes planiusculus	|	 	|	 
+3	|	Nasutitermes pluriarticulatus	|	 	|	 
+1	|	Nasutitermes pluvialis	|	 	|	286187
+1	|	Nasutitermes princeps	|	 	|	114643
+3	|	Nasutitermes proatripennis	|	 	|	 
+3	|	Nasutitermes profuscipennis	|	 	|	 
+1	|	Nasutitermes projectus	|	Tumulitermes projectus	|	1962925
+3	|	Nasutitermes proximus	|	 	|	 
+3	|	Nasutitermes qimenensis	|	 	|	 
+3	|	Nasutitermes qingjiensis	|	 	|	 
+3	|	Nasutitermes rectangularis	|	 	|	 
+1	|	Nasutitermes regularis	|	 	|	114644
+3	|	Nasutitermes retus	|	 	|	 
+1	|	Nasutitermes rippertii	|	 	|	297333
+3	|	Nasutitermes roboratus	|	 	|	 
+1	|	Nasutitermes rotundatus	|	 	|	2259546
+3	|	Nasutitermes rotundus	|	 	|	 
+3	|	Nasutitermes saleierensis	|	 	|	 
+3	|	Nasutitermes sanctaeanae	|	 	|	 
+3	|	Nasutitermes sandakensis	|	 	|	 
+3	|	Nasutitermes schoutedeni	|	 	|	 
+3	|	Nasutitermes seghersi	|	 	|	 
+3	|	Nasutitermes shangchengensis	|	 	|	 
+3	|	Nasutitermes simaluris	|	 	|	 
+1	|	Nasutitermes similis	|	 	|	377948
+3	|	Nasutitermes simulans	|	 	|	 
+3	|	Nasutitermes sinensis	|	 	|	 
+1	|	Nasutitermes smithi	|	 	|	1962917
+3	|	Nasutitermes stricticeps	|	 	|	 
+3	|	Nasutitermes subtibetanus	|	 	|	 
+3	|	Nasutitermes subtibialis	|	 	|	 
+3	|	Nasutitermes suknensis	|	 	|	 
+1	|	Nasutitermes surinamensis	|	 	|	1436837
+1	|	Nasutitermes takasagoensis	|	 	|	62960
+3	|	Nasutitermes tandoni	|	 	|	 
+3	|	Nasutitermes tatarendae	|	 	|	 
+3	|	Nasutitermes taylori	|	 	|	 
+3	|	Nasutitermes thanensis	|	 	|	 
+3	|	Nasutitermes tianmuensis	|	 	|	 
+3	|	Nasutitermes tiantongensis	|	 	|	 
+3	|	Nasutitermes tibetanus	|	 	|	 
+3	|	Nasutitermes timoriensis	|	 	|	 
+3	|	Nasutitermes tipuanicus	|	 	|	 
+1	|	Nasutitermes torresi	|	 	|	1962918
+3	|	Nasutitermes tredecimarticulatus	|	 	|	 
+3	|	Nasutitermes triloki	|	 	|	 
+1	|	Nasutitermes triodiae	|	 	|	114645
+3	|	Nasutitermes tsaii	|	 	|	 
+3	|	Nasutitermes tungsalangensis	|	 	|	 
+1	|	Nasutitermes unduliceps	|	 	|	1436834
+3	|	Nasutitermes vadoni	|	 	|	 
+3	|	Nasutitermes vallis	|	 	|	 
+3	|	Nasutitermes vishnu	|	 	|	 
+1	|	Nasutitermes walkeri	|	 	|	76108
+1	|	Nasutitermes wheeleri	|	 	|	1436835
+3	|	Nasutitermes xingshanensis	|	 	|	 
+1	|	Neocapritermes angusticeps	|	 	|	187547
+1	|	Neocapritermes araguaia	|	 	|	1576342
+3	|	Neocapritermes bodkini	|	 	|	 
+3	|	Neocapritermes braziliensis	|	 	|	 
+3	|	Neocapritermes centralis	|	 	|	 
+3	|	Neocapritermes guyana	|	 	|	 
+1	|	Neocapritermes longinotus	|	 	|	377957
+3	|	Neocapritermes mirim	|	 	|	 
+1	|	Neocapritermes opacus	|	 	|	2259547
+3	|	Neocapritermes parvus	|	 	|	 
+3	|	Neocapritermes pumilis	|	 	|	 
+1	|	Neocapritermes talpa	|	 	|	377958
+1	|	Neocapritermes talpoides	|	 	|	377959
+1	|	Neocapritermes taracua	|	 	|	377960
+3	|	Neocapritermes unicornis	|	 	|	 
+3	|	Neocapritermes utiariti	|	 	|	 
+3	|	Neocapritermes villosus	|	 	|	 
+3	|	Neotermes aburiensis	|	 	|	 
+3	|	Neotermes acceptus	|	 	|	 
+3	|	Neotermes adampurensis	|	 	|	 
+3	|	Neotermes agilis	|	 	|	 
+3	|	Neotermes amplilabralis	|	 	|	 
+3	|	Neotermes andamanensis	|	 	|	 
+3	|	Neotermes angustigulus	|	 	|	 
+3	|	Neotermes araguaensis	|	 	|	 
+3	|	Neotermes aridus	|	 	|	 
+3	|	Neotermes arthurimuelleri	|	 	|	 
+3	|	Neotermes artocarpi	|	 	|	 
+3	|	Neotermes assamensis	|	 	|	 
+3	|	Neotermes assmuthi	|	 	|	 
+3	|	Neotermes binovatus	|	 	|	 
+3	|	Neotermes blairi	|	 	|	 
+3	|	Neotermes bosei	|	 	|	 
+3	|	Neotermes brachynotum	|	 	|	 
+3	|	Neotermes brevinotus	|	 	|	 
+3	|	Neotermes buxensis	|	 	|	 
+3	|	Neotermes camerunensis	|	 	|	 
+1	|	Neotermes castaneus	|	 	|	223394
+1	|	Neotermes chilensis	|	 	|	1225367
+3	|	Neotermes collarti	|	 	|	 
+1	|	Neotermes connexus	|	 	|	1507048
+3	|	Neotermes costaseca	|	 	|	 
+3	|	Neotermes cryptops	|	 	|	 
+3	|	Neotermes cubanus	|	 	|	 
+3	|	Neotermes dalbergiae	|	 	|	 
+3	|	Neotermes desneuxi	|	 	|	 
+3	|	Neotermes dhirendrai	|	 	|	 
+3	|	Neotermes dolichognathus	|	 	|	 
+3	|	Neotermes dubiocalcaratus	|	 	|	 
+3	|	Neotermes eleanorae	|	 	|	 
+3	|	Neotermes erythraeus	|	 	|	 
+3	|	Neotermes europae	|	 	|	 
+3	|	Neotermes ferrugineus	|	 	|	 
+3	|	Neotermes firmus	|	 	|	 
+3	|	Neotermes fletcheri	|	 	|	 
+3	|	Neotermes fovefrons	|	 	|	 
+3	|	Neotermes fujianensis	|	 	|	 
+3	|	Neotermes fulvescens	|	 	|	 
+3	|	Neotermes gestri	|	 	|	 
+3	|	Neotermes glabriusculus	|	 	|	 
+3	|	Neotermes gnathoferrum	|	 	|	 
+3	|	Neotermes gracilidens	|	 	|	 
+3	|	Neotermes grandis	|	 	|	 
+3	|	Neotermes greeni	|	 	|	 
+3	|	Neotermes hirtellus	|	 	|	 
+1	|	Neotermes holmgreni	|	 	|	488271
+3	|	Neotermes humilis	|	 	|	 
+1	|	Neotermes insularis	|	 	|	105798
+3	|	Neotermes intracaulis	|	 	|	 
+1	|	Neotermes jouteli	|	 	|	641614
+3	|	Neotermes kalimpongensis	|	 	|	 
+3	|	Neotermes kanehirai	|	 	|	 
+3	|	Neotermes kartaboensis	|	 	|	 
+3	|	Neotermes kemneri	|	 	|	 
+3	|	Neotermes keralai	|	 	|	 
+3	|	Neotermes ketelensis	|	 	|	 
+1	|	Neotermes koshunensis	|	 	|	60586
+3	|	Neotermes krishnai	|	 	|	 
+3	|	Neotermes lagunensis	|	 	|	 
+3	|	Neotermes larseni	|	 	|	 
+3	|	Neotermes laticollis	|	 	|	 
+3	|	Neotermes lepersonneae	|	 	|	 
+3	|	Neotermes longiceps	|	 	|	 
+3	|	Neotermes longipennis	|	 	|	 
+3	|	Neotermes luykxi	|	 	|	 
+3	|	Neotermes magnoculus	|	 	|	 
+3	|	Neotermes malatensis	|	 	|	 
+3	|	Neotermes mangiferae	|	 	|	 
+3	|	Neotermes medius	|	 	|	 
+3	|	Neotermes megaoculatus	|	 	|	 
+3	|	Neotermes meruensis	|	 	|	 
+3	|	Neotermes microculatus	|	 	|	 
+3	|	Neotermes microphthalmus	|	 	|	 
+3	|	Neotermes minutus	|	 	|	 
+3	|	Neotermes miracapitalis	|	 	|	 
+3	|	Neotermes modestus	|	 	|	 
+1	|	Neotermes mona	|	 	|	46568
+3	|	Neotermes nigeriensis	|	 	|	 
+3	|	Neotermes nilamburensis	|	 	|	 
+3	|	Neotermes ovatus	|	 	|	 
+3	|	Neotermes pallidicollis	|	 	|	 
+3	|	Neotermes papua	|	 	|	 
+3	|	Neotermes paraensis	|	 	|	 
+3	|	Neotermes paratensis	|	 	|	 
+3	|	Neotermes parviscutatus	|	 	|	 
+3	|	Neotermes phragmosus	|	 	|	 
+3	|	Neotermes pingshanensis	|	 	|	 
+3	|	Neotermes platyfrons	|	 	|	 
+3	|	Neotermes prosonneratiae	|	 	|	 
+3	|	Neotermes rainbowi	|	 	|	 
+3	|	Neotermes rhizophorae	|	 	|	 
+3	|	Neotermes rouxi	|	 	|	 
+3	|	Neotermes saleierensis	|	 	|	 
+3	|	Neotermes samoanus	|	 	|	 
+3	|	Neotermes sanctaecrucis	|	 	|	 
+3	|	Neotermes sarasini	|	 	|	 
+3	|	Neotermes schultzei	|	 	|	 
+3	|	Neotermes sepulvillus	|	 	|	 
+3	|	Neotermes setifer	|	 	|	 
+3	|	Neotermes shimogensis	|	 	|	 
+3	|	Neotermes sinensis	|	 	|	 
+3	|	Neotermes sjostedti	|	 	|	 
+3	|	Neotermes sonneratiae	|	 	|	 
+3	|	Neotermes sphenocephalus	|	 	|	 
+2	|	Neotermes sugioi	|	Neotermes sp. 1 TY-2018	|	2496156
+3	|	Neotermes superans	|	 	|	 
+3	|	Neotermes taishanensis	|	 	|	 
+3	|	Neotermes tectonae	|	 	|	 
+3	|	Neotermes tuberogulus	|	 	|	 
+3	|	Neotermes undulatus	|	 	|	 
+3	|	Neotermes venkateshwara	|	 	|	 
+3	|	Neotermes voeltzkowi	|	 	|	 
+3	|	Neotermes wagneri	|	 	|	 
+3	|	Neotermes yunnanensis	|	 	|	 
+3	|	Neotermes zanclus	|	 	|	 
+3	|	Neotermes zuluensis	|	 	|	 
+3	|	Ngauratermes arue	|	 	|	 
+3	|	Nitiditermes berghei	|	 	|	 
+3	|	Niuginitermes liklik	|	 	|	 
+3	|	Niuginitermes variatae	|	 	|	 
+3	|	Noditermes angolensis	|	 	|	 
+1	|	Noditermes cristifrons	|	 	|	1934560
+3	|	Noditermes festivus	|	 	|	 
+3	|	Noditermes indoensis	|	 	|	 
+1	|	Noditermes lamanianus	|	 	|	1934561
+3	|	Noditermes profestus	|	 	|	 
+3	|	Noditermes wasambaricus	|	 	|	 
+1	|	Noirotitermes noiroti	|	 	|	1972834
+3	|	Obtusitermes formosulus	|	 	|	 
+1	|	Obtusitermes panamae	|	 	|	2698461
+1	|	Occasitermes occasus	|	 	|	377962
+1	|	Occasitermes watsoni	|	 	|	1962919
+3	|	Occultitermes aridus	|	 	|	 
+1	|	Occultitermes occultus	|	 	|	1962929
+3	|	Odontotermes acutidens	|	 	|	 
+3	|	Odontotermes adampurensis	|	 	|	 
+3	|	Odontotermes agilis	|	 	|	 
+3	|	Odontotermes akengeensis	|	 	|	 
+3	|	Odontotermes amanicus	|	 	|	 
+1	|	Odontotermes amaniensis	|	 	|	138609
+3	|	Odontotermes anamallensis	|	 	|	 
+1	|	Odontotermes anceps	|	 	|	138610
+3	|	Odontotermes angustatus	|	 	|	 
+3	|	Odontotermes angustignathus	|	 	|	 
+3	|	Odontotermes angustipennis	|	 	|	 
+3	|	Odontotermes annulicornis	|	 	|	 
+3	|	Odontotermes apollo	|	 	|	 
+3	|	Odontotermes aquaticus	|	 	|	 
+1	|	Odontotermes assmuthi	|	 	|	645672
+3	|	Odontotermes aurora	|	 	|	 
+1	|	Odontotermes badius	|	 	|	315815
+3	|	Odontotermes bellahunisensis	|	 	|	 
+3	|	Odontotermes bequaerti	|	 	|	 
+1	|	Odontotermes bhagwatii	|	 	|	483035
+1	|	Odontotermes billitoni	|	 	|	201589
+3	|	Odontotermes boetonensis	|	 	|	 
+3	|	Odontotermes bogoriensis	|	 	|	 
+3	|	Odontotermes bomaensis	|	 	|	 
+1	|	Odontotermes boranicus	|	 	|	479874
+3	|	Odontotermes bottegoanus	|	 	|	 
+3	|	Odontotermes boveni	|	 	|	 
+1	|	Odontotermes brunneus	|	 	|	1049648
+3	|	Odontotermes buchholzi	|	 	|	 
+1	|	Odontotermes butteli	|	 	|	711053
+3	|	Odontotermes caffrariae	|	 	|	 
+3	|	Odontotermes capensis	|	 	|	 
+3	|	Odontotermes celebensis	|	 	|	 
+1	|	Odontotermes ceylonicus	|	 	|	377963
+3	|	Odontotermes chicapanensis	|	 	|	 
+3	|	Odontotermes classicus	|	 	|	 
+3	|	Odontotermes conignathus	|	 	|	 
+3	|	Odontotermes culturarum	|	 	|	 
+3	|	Odontotermes denticulatus	|	 	|	 
+3	|	Odontotermes diana	|	 	|	 
+1	|	Odontotermes dimorphus	|	 	|	1844528
+3	|	Odontotermes distans	|	 	|	 
+3	|	Odontotermes dives	|	 	|	 
+3	|	Odontotermes djampeensis	|	 	|	 
+3	|	Odontotermes ebeni	|	 	|	 
+3	|	Odontotermes egregius	|	 	|	 
+3	|	Odontotermes elgonensis	|	 	|	 
+3	|	Odontotermes erodens	|	 	|	 
+3	|	Odontotermes erraticus	|	 	|	 
+1	|	Odontotermes escherichi	|	 	|	377964
+3	|	Odontotermes fallax	|	 	|	 
+1	|	Odontotermes feae	|	 	|	697158
+3	|	Odontotermes feaeoides	|	 	|	 
+3	|	Odontotermes fidens	|	 	|	 
+3	|	Odontotermes flammifrons	|	 	|	 
+3	|	Odontotermes fockianus	|	 	|	 
+3	|	Odontotermes fontanellus	|	 	|	 
+1	|	Odontotermes formosanus	|	 	|	60588
+3	|	Odontotermes foveafrons	|	 	|	 
+1	|	Odontotermes fulleri	|	 	|	479875
+3	|	Odontotermes fuyangensis	|	 	|	 
+3	|	Odontotermes ganpati	|	 	|	 
+3	|	Odontotermes garambae	|	 	|	 
+3	|	Odontotermes giriensis	|	 	|	 
+3	|	Odontotermes girnarensis	|	 	|	 
+3	|	Odontotermes globicola	|	 	|	 
+3	|	Odontotermes grandiceps	|	 	|	 
+3	|	Odontotermes grassei	|	 	|	 
+3	|	Odontotermes gravelyi	|	 	|	 
+3	|	Odontotermes guizhouensis	|	 	|	 
+3	|	Odontotermes guptai	|	 	|	 
+1	|	Odontotermes gurdaspurensis	|	 	|	1231261
+3	|	Odontotermes hageni	|	 	|	 
+1	|	Odontotermes hainanensis	|	 	|	488272
+3	|	Odontotermes horai	|	 	|	 
+1	|	Odontotermes horni	|	 	|	483036
+3	|	Odontotermes incisus	|	 	|	 
+3	|	Odontotermes indrapurensis	|	 	|	 
+3	|	Odontotermes interveniens	|	 	|	 
+3	|	Odontotermes iratus	|	 	|	 
+1	|	Odontotermes javanicus	|	 	|	201590
+3	|	Odontotermes kapuri	|	 	|	 
+3	|	Odontotermes karawajevi	|	 	|	 
+3	|	Odontotermes karnyi	|	 	|	 
+3	|	Odontotermes kepongensis	|	 	|	 
+3	|	Odontotermes kibarensis	|	 	|	 
+3	|	Odontotermes kistneri	|	 	|	 
+3	|	Odontotermes koenigi	|	 	|	 
+3	|	Odontotermes kulkarni	|	 	|	 
+1	|	Odontotermes lacustris	|	 	|	479876
+1	|	Odontotermes latericius	|	 	|	201591
+3	|	Odontotermes latialatus	|	 	|	 
+3	|	Odontotermes latigula	|	 	|	 
+3	|	Odontotermes latiguloides	|	 	|	 
+3	|	Odontotermes latissimus	|	 	|	 
+3	|	Odontotermes lautus	|	 	|	 
+3	|	Odontotermes lobintactus	|	 	|	 
+1	|	Odontotermes longignathus	|	 	|	144741
+3	|	Odontotermes longigula	|	 	|	 
+3	|	Odontotermes longzhouensis	|	 	|	 
+1	|	Odontotermes luoyangensis	|	 	|	983324
+3	|	Odontotermes maesodensis	|	 	|	 
+3	|	Odontotermes magdalenae	|	 	|	 
+3	|	Odontotermes makassarensis	|	 	|	 
+3	|	Odontotermes malabaricus	|	 	|	 
+1	|	Odontotermes malaccensis	|	 	|	1050852
+3	|	Odontotermes maledictus	|	 	|	 
+3	|	Odontotermes malelaensis	|	 	|	 
+3	|	Odontotermes maliki	|	 	|	 
+3	|	Odontotermes matangensis	|	 	|	 
+3	|	Odontotermes maximus	|	 	|	 
+1	|	Odontotermes mediocris	|	 	|	479877
+3	|	Odontotermes menadoensis	|	 	|	 
+3	|	Odontotermes meridionalis	|	 	|	 
+3	|	Odontotermes microdentatus	|	 	|	 
+3	|	Odontotermes microps	|	 	|	 
+1	|	Odontotermes minutus	|	 	|	201596
+3	|	Odontotermes mirganjensis	|	 	|	 
+3	|	Odontotermes mohandi	|	 	|	 
+3	|	Odontotermes monodon	|	 	|	 
+1	|	Odontotermes montanus	|	 	|	138611
+3	|	Odontotermes mukimbunginis	|	 	|	 
+3	|	Odontotermes neodenticulatus	|	 	|	 
+1	|	Odontotermes nilensis	|	 	|	201597
+3	|	Odontotermes nolaensis	|	 	|	 
+1	|	Odontotermes obesus	|	 	|	483037
+1	|	Odontotermes oblongatus	|	 	|	201598
+3	|	Odontotermes okahandjae	|	 	|	 
+3	|	Odontotermes ostentans	|	 	|	 
+3	|	Odontotermes palmquisti	|	 	|	 
+3	|	Odontotermes paradenticulatus	|	 	|	 
+3	|	Odontotermes paralatigula	|	 	|	 
+3	|	Odontotermes paralatiguloides	|	 	|	 
+3	|	Odontotermes parallelus	|	 	|	 
+1	|	Odontotermes paraoblongatus	|	 	|	1050853
+1	|	Odontotermes parvidens	|	 	|	1548792
+3	|	Odontotermes patruus	|	 	|	 
+3	|	Odontotermes pauperans	|	 	|	 
+3	|	Odontotermes peshawarensis	|	 	|	 
+3	|	Odontotermes planiceps	|	 	|	 
+3	|	Odontotermes praevalens	|	 	|	 
+3	|	Odontotermes preliminaris	|	 	|	 
+3	|	Odontotermes pretoriensis	|	 	|	 
+3	|	Odontotermes prewensis	|	 	|	 
+3	|	Odontotermes prodives	|	 	|	 
+3	|	Odontotermes profeae	|	 	|	 
+1	|	Odontotermes proformosanus	|	 	|	915005
+3	|	Odontotermes prolatigula	|	 	|	 
+3	|	Odontotermes proximus	|	 	|	 
+3	|	Odontotermes pujiangensis	|	 	|	 
+3	|	Odontotermes pyriceps	|	 	|	 
+3	|	Odontotermes quinquedentatus	|	 	|	 
+3	|	Odontotermes ramulosus	|	 	|	 
+3	|	Odontotermes rectanguloides	|	 	|	 
+1	|	Odontotermes redemanni	|	 	|	1548793
+3	|	Odontotermes rehobothensis	|	 	|	 
+3	|	Odontotermes robustus	|	 	|	 
+3	|	Odontotermes rothschildianus	|	 	|	 
+3	|	Odontotermes salebrifrons	|	 	|	 
+1	|	Odontotermes sarawakensis	|	 	|	201599
+3	|	Odontotermes sasangirensis	|	 	|	 
+3	|	Odontotermes schmitzi	|	 	|	 
+3	|	Odontotermes scrutor	|	 	|	 
+3	|	Odontotermes sellathorax	|	 	|	 
+3	|	Odontotermes shixingensis	|	 	|	 
+3	|	Odontotermes sikkimensis	|	 	|	 
+3	|	Odontotermes silamensis	|	 	|	 
+3	|	Odontotermes silvaticus	|	 	|	 
+3	|	Odontotermes silvestrii	|	 	|	 
+3	|	Odontotermes simalurensis	|	 	|	 
+3	|	Odontotermes simplicidens	|	 	|	 
+3	|	Odontotermes sinabangensis	|	 	|	 
+3	|	Odontotermes singsiti	|	 	|	 
+3	|	Odontotermes sjostedti	|	 	|	 
+3	|	Odontotermes smeathmani	|	 	|	 
+3	|	Odontotermes snyderi	|	 	|	 
+3	|	Odontotermes somaliensis	|	 	|	 
+3	|	Odontotermes stanleyvillensis	|	 	|	 
+1	|	Odontotermes stercorivorus	|	 	|	138612
+3	|	Odontotermes sudanensis	|	 	|	 
+3	|	Odontotermes takensis	|	 	|	 
+1	|	Odontotermes tanganicus	|	 	|	138613
+3	|	Odontotermes taprobanes	|	 	|	 
+3	|	Odontotermes terricola	|	 	|	 
+3	|	Odontotermes tragardhi	|	 	|	 
+1	|	Odontotermes transvaalensis	|	 	|	315816
+3	|	Odontotermes vaishno	|	 	|	 
+3	|	Odontotermes vulgaris	|	 	|	 
+1	|	Odontotermes wallonensis	|	 	|	1049649
+3	|	Odontotermes wuzhishanensis	|	 	|	 
+1	|	Odontotermes yadevi	|	 	|	1882577
+3	|	Odontotermes yaoi	|	 	|	 
+3	|	Odontotermes yarangensis	|	 	|	 
+1	|	Odontotermes yunnanensis	|	 	|	1069831
+1	|	Odontotermes zambesiensis	|	 	|	138614
+1	|	Odontotermes ziyangensis	|	 	|	915006
+3	|	Odontotermes zulunatalensis	|	 	|	 
+3	|	Odontotermes zunyiensis	|	 	|	 
+3	|	Okavangotermes giessi	|	 	|	 
+3	|	Okavangotermes guineensis	|	 	|	 
+3	|	Onkotermes brevicorniger	|	 	|	 
+3	|	Onkotermes corochus	|	 	|	 
+3	|	Ophiotermes gracilis	|	 	|	 
+1	|	Ophiotermes grandilabius	|	 	|	1934576
+3	|	Ophiotermes mandibularis	|	 	|	 
+1	|	Ophiotermes mirandus	|	 	|	1934577
+3	|	Ophiotermes receptus	|	 	|	 
+3	|	Ophiotermes shabaensis	|	 	|	 
+1	|	Ophiotermes ugandaensis	|	 	|	377967
+1	|	Oriencapritermes kluangensis	|	 	|	187549
+1	|	Oriensubulitermes inanis	|	 	|	377968
+3	|	Oriensubulitermes kemneri	|	 	|	 
+1	|	Orientotermes emersoni	|	 	|	377969
+1	|	Orthognathotermes aduncus	|	 	|	1576343
+3	|	Orthognathotermes brevipilosus	|	 	|	 
+3	|	Orthognathotermes gibberorum	|	 	|	 
+3	|	Orthognathotermes heberi	|	 	|	 
+3	|	Orthognathotermes humilis	|	 	|	 
+3	|	Orthognathotermes insignis	|	 	|	 
+3	|	Orthognathotermes longilamina	|	 	|	 
+3	|	Orthognathotermes macrocephalus	|	 	|	 
+3	|	Orthognathotermes mirim	|	 	|	 
+3	|	Orthognathotermes okeyma	|	 	|	 
+3	|	Orthognathotermes orthognathus	|	 	|	 
+3	|	Orthognathotermes pilosus	|	 	|	 
+3	|	Orthognathotermes tubesauassu	|	 	|	 
+3	|	Orthognathotermes uncimandibularis	|	 	|	 
+3	|	Orthognathotermes wheeleri	|	 	|	 
+1	|	Orthotermes depressifrons	|	 	|	187551
+1	|	Orthotermes mansuetus	|	 	|	1934578
+3	|	Ovambotermes sylvaticus	|	 	|	 
+1	|	Palmitermes impostor	|	 	|	2603945
+1	|	Paracapritermes kraepelinii	|	 	|	377971
+3	|	Paracapritermes primus	|	 	|	 
+3	|	Paracapritermes prolixus	|	 	|	 
+3	|	Paracapritermes secundus	|	 	|	 
+3	|	Paraconvexitermes acangapua	|	 	|	 
+1	|	Paraconvexitermes junceus	|	 	|	2358284
+3	|	Paraconvexitermes nigricornis	|	 	|	 
+1	|	Paracurvitermes manni	|	 	|	1972835
+1	|	Paraneotermes simplicicornis	|	 	|	1507049
+1	|	Parrhinotermes aequalis	|	 	|	127380
+3	|	Parrhinotermes barbatus	|	 	|	 
+1	|	Parrhinotermes browni	|	 	|	1576344
+3	|	Parrhinotermes buttelreepeni	|	 	|	 
+3	|	Parrhinotermes inaequalis	|	 	|	 
+3	|	Parrhinotermes khasii	|	 	|	 
+1	|	Parrhinotermes microdentiformis	|	 	|	377972
+3	|	Parrhinotermes microdentiformisoides	|	 	|	 
+3	|	Parrhinotermes minor	|	 	|	 
+3	|	Parrhinotermes pygmaeus	|	 	|	 
+1	|	Parrhinotermes queenslandicus	|	 	|	62957
+3	|	Parrhinotermes ruiliensis	|	 	|	 
+3	|	Parrhinotermes shamimi	|	 	|	 
+3	|	Parvitermes aequalis	|	 	|	 
+3	|	Parvitermes antillarum	|	 	|	 
+1	|	Parvitermes bacchanalis	|	Obtusitermes bacchanalis	|	2358285
+1	|	Parvitermes brooksi	|	 	|	2698462
+3	|	Parvitermes collinsae	|	 	|	 
+3	|	Parvitermes dominicanae	|	 	|	 
+3	|	Parvitermes flaveolus	|	 	|	 
+3	|	Parvitermes mesoamericanus	|	 	|	 
+3	|	Parvitermes mexicanus	|	 	|	 
+3	|	Parvitermes pallidiceps	|	 	|	 
+3	|	Parvitermes toussainti	|	 	|	 
+3	|	Parvitermes wolcotti	|	 	|	 
+3	|	Parvitermes yucatanus	|	 	|	 
+1	|	Patawatermes nigripunctatus	|	 	|	1778932
+1	|	Patawatermes turricola	|	 	|	1934580
+3	|	Periaciculitermes menglunensis	|	 	|	 
+3	|	Peribulbitermes dinghuensis	|	 	|	 
+3	|	Peribulbitermes jinghongensis	|	 	|	 
+3	|	Peribulbitermes parafulvus	|	 	|	 
+3	|	Pericapritermes appellans	|	 	|	 
+3	|	Pericapritermes assamensis	|	 	|	 
+3	|	Pericapritermes beibengensis	|	 	|	 
+3	|	Pericapritermes brachygnathus	|	 	|	 
+3	|	Pericapritermes buitenzorgi	|	 	|	 
+1	|	Pericapritermes ceylonicus	|	 	|	377973
+3	|	Pericapritermes chiasognathus	|	 	|	 
+3	|	Pericapritermes desaegeri	|	 	|	 
+1	|	Pericapritermes dolichocephalus	|	 	|	1934581
+3	|	Pericapritermes dumicola	|	 	|	 
+3	|	Pericapritermes dunensis	|	 	|	 
+3	|	Pericapritermes durga	|	 	|	 
+3	|	Pericapritermes fuscotibialis	|	 	|	 
+3	|	Pericapritermes gloveri	|	 	|	 
+3	|	Pericapritermes gutianensis	|	 	|	 
+3	|	Pericapritermes hepuensis	|	 	|	 
+3	|	Pericapritermes heteronotus	|	 	|	 
+1	|	Pericapritermes latignathus	|	 	|	1934582
+3	|	Pericapritermes machadoi	|	 	|	 
+3	|	Pericapritermes magnificus	|	 	|	 
+3	|	Pericapritermes metatus	|	 	|	 
+3	|	Pericapritermes minimus	|	 	|	 
+3	|	Pericapritermes modiglianii	|	 	|	 
+3	|	Pericapritermes mohri	|	 	|	 
+1	|	Pericapritermes nigerianus	|	 	|	377974
+1	|	Pericapritermes nitobei	|	 	|	64674
+3	|	Pericapritermes paetensis	|	 	|	 
+3	|	Pericapritermes pallidipes	|	 	|	 
+3	|	Pericapritermes papuanus	|	 	|	 
+3	|	Pericapritermes parvus	|	 	|	 
+3	|	Pericapritermes pilosus	|	 	|	 
+3	|	Pericapritermes planiusculus	|	 	|	 
+3	|	Pericapritermes schultzei	|	 	|	 
+1	|	Pericapritermes semarangi	|	 	|	229709
+3	|	Pericapritermes silvestrianus	|	 	|	 
+3	|	Pericapritermes speciosus	|	 	|	 
+3	|	Pericapritermes tetraphilus	|	 	|	 
+3	|	Pericapritermes topslipensis	|	 	|	 
+1	|	Pericapritermes urgens	|	 	|	2589830
+3	|	Pericapritermes wuzhishanensis	|	 	|	 
+3	|	Phoxotermes cerberus	|	 	|	 
+3	|	Pilotermes langi	|	 	|	 
+3	|	Planicapritermes longilabrum	|	 	|	 
+1	|	Planicapritermes planiceps	|	 	|	377975
+1	|	Porotermes adamsoni	|	 	|	105774
+1	|	Porotermes planiceps	|	 	|	137007
+1	|	Porotermes quadricollis	|	 	|	377978
+1	|	Postelectrotermes amplus	|	 	|	377979
+3	|	Postelectrotermes bhimi	|	 	|	 
+3	|	Postelectrotermes bidentatus	|	 	|	 
+3	|	Postelectrotermes castaneiceps	|	 	|	 
+1	|	Postelectrotermes howa	|	 	|	488273
+3	|	Postelectrotermes longiceps	|	 	|	 
+3	|	Postelectrotermes longus	|	 	|	 
+3	|	Postelectrotermes militaris	|	 	|	 
+3	|	Postelectrotermes nayari	|	 	|	 
+3	|	Postelectrotermes pasniensis	|	 	|	 
+3	|	Postelectrotermes pishinensis	|	 	|	 
+3	|	Postelectrotermes praecox	|	 	|	 
+3	|	Postelectrotermes sordwanae	|	 	|	 
+3	|	Postelectrotermes tongyaii	|	 	|	 
+3	|	Postelectrotermes zabuliensis	|	 	|	 
+1	|	Postsubulitermes parviconstrictus	|	 	|	377980
+3	|	Proboscitermes mcgrewi	|	 	|	 
+1	|	Proboscitermes tubuliferus	|	 	|	1934589
+3	|	Procapritermes atypus	|	 	|	 
+3	|	Procapritermes dakshinae	|	 	|	 
+3	|	Procapritermes holmgreni	|	 	|	 
+3	|	Procapritermes huananensis	|	 	|	 
+3	|	Procapritermes keralai	|	 	|	 
+3	|	Procapritermes longignathus	|	 	|	 
+1	|	Procapritermes martyni	|	 	|	1934590
+3	|	Procapritermes minutus	|	 	|	 
+3	|	Procapritermes neosetiger	|	 	|	 
+3	|	Procapritermes prosetiger	|	 	|	 
+3	|	Procapritermes sandakanensis	|	 	|	 
+1	|	Procapritermes setiger	|	 	|	187581
+3	|	Procapritermes zhangfengensis	|	 	|	 
+1	|	Procornitermes araujoi	|	 	|	488274
+1	|	Procornitermes lespesii	|	 	|	1853079
+3	|	Procornitermes romani	|	 	|	 
+3	|	Procornitermes striatus	|	 	|	 
+1	|	Procornitermes triacifer	|	 	|	1972836
+1	|	Procryptotermes australiensis	|	 	|	105800
+1	|	Procryptotermes corniceps	|	 	|	46564
+3	|	Procryptotermes dhari	|	 	|	 
+3	|	Procryptotermes dioscurae	|	 	|	 
+3	|	Procryptotermes edwardsi	|	 	|	 
+3	|	Procryptotermes falcifer	|	 	|	 
+3	|	Procryptotermes fryeri	|	 	|	 
+3	|	Procryptotermes hesperus	|	 	|	 
+3	|	Procryptotermes hunsurensis	|	 	|	 
+3	|	Procryptotermes krishnai	|	 	|	 
+1	|	Procryptotermes leewardensis	|	 	|	488275
+3	|	Procryptotermes rapae	|	 	|	 
+3	|	Procryptotermes speiseri	|	 	|	 
+3	|	Procryptotermes valeriae	|	 	|	 
+3	|	Procubitermes aburiensis	|	 	|	 
+1	|	Procubitermes arboricola	|	 	|	187553
+3	|	Procubitermes curvatus	|	 	|	 
+3	|	Procubitermes niapuensis	|	 	|	 
+3	|	Procubitermes sinuosus	|	 	|	 
+3	|	Procubitermes sjostedti	|	 	|	 
+3	|	Procubitermes ueleensis	|	 	|	 
+1	|	Procubitermes undulans	|	 	|	1934595
+3	|	Procubitermes wasmanni	|	 	|	 
+3	|	Profastigitermes putnami	|	 	|	 
+3	|	Prohamitermes hosei	|	 	|	 
+1	|	Prohamitermes mirabilis	|	 	|	187558
+3	|	Promirotermes bechuana	|	 	|	 
+3	|	Promirotermes bellicosi	|	 	|	 
+3	|	Promirotermes dumisae	|	 	|	 
+3	|	Promirotermes gracilipes	|	 	|	 
+3	|	Promirotermes holmgreni	|	 	|	 
+3	|	Promirotermes massaicus	|	 	|	 
+3	|	Promirotermes orthoceps	|	 	|	 
+1	|	Promirotermes pygmaeus	|	 	|	1934596
+1	|	Promirotermes redundans	|	 	|	377983
+3	|	Promirotermes rotundifrons	|	 	|	 
+3	|	Proneotermes latifrons	|	 	|	 
+1	|	Proneotermes macondianus	|	 	|	1891680
+3	|	Proneotermes perezi	|	 	|	 
+1	|	Prorhinotermes canalifrons	|	 	|	488276
+1	|	Prorhinotermes flavus	|	 	|	2522213
+2	|	Prorhinotermes hainanensis	|	Prorhinotermes flavus	|	2522213
+1	|	Prorhinotermes inopinatus	|	 	|	2052668
+3	|	Prorhinotermes molinoi	|	 	|	 
+3	|	Prorhinotermes oceanicus	|	 	|	 
+3	|	Prorhinotermes ponapensis	|	 	|	 
+3	|	Prorhinotermes rugifer	|	 	|	 
+1	|	Prorhinotermes simplex	|	 	|	1312446
+3	|	Prorhinotermes spectabilis	|	 	|	 
+3	|	Prorhinotermes xishaensis	|	 	|	 
+3	|	Protermes hirticeps	|	 	|	 
+3	|	Protermes minimus	|	 	|	 
+1	|	Protermes minutus	|	 	|	201608
+3	|	Protermes mwekerae	|	 	|	 
+1	|	Protermes prorepens	|	 	|	201609
+3	|	Protocapritermes krisiformis	|	 	|	 
+3	|	Protocapritermes odontomachus	|	 	|	 
+3	|	Protohamitermes globiceps	|	 	|	 
+1	|	Psammotermes allocerus	|	 	|	127385
+3	|	Psammotermes hybostoma	|	 	|	 
+3	|	Psammotermes prohybostoma	|	 	|	 
+3	|	Psammotermes rajasthanicus	|	 	|	 
+3	|	Psammotermes senegalensis	|	 	|	 
+1	|	Psammotermes voeltzkowi	|	 	|	377984
+3	|	Pseudacanthotermes curticeps	|	 	|	 
+3	|	Pseudacanthotermes grandiceps	|	 	|	 
+3	|	Pseudacanthotermes harrisensis	|	 	|	 
+1	|	Pseudacanthotermes militaris	|	 	|	201611
+3	|	Pseudacanthotermes piceus	|	 	|	 
+1	|	Pseudacanthotermes spiniger	|	 	|	115113
+3	|	Pseudhamitermes khmerensis	|	 	|	 
+3	|	Pseudhamitermes longignathus	|	 	|	 
+3	|	Pseudocapritermes angustignathus	|	 	|	 
+3	|	Pseudocapritermes bhutanensis	|	 	|	 
+3	|	Pseudocapritermes fletcheri	|	 	|	 
+3	|	Pseudocapritermes jiangchengensis	|	 	|	 
+3	|	Pseudocapritermes karticki	|	 	|	 
+3	|	Pseudocapritermes kemneri	|	 	|	 
+1	|	Pseudocapritermes largus	|	 	|	2711305
+3	|	Pseudocapritermes megacephalus	|	 	|	 
+3	|	Pseudocapritermes minutus	|	 	|	 
+3	|	Pseudocapritermes orientalis	|	 	|	 
+3	|	Pseudocapritermes parasilvaticus	|	 	|	 
+3	|	Pseudocapritermes planimentus	|	 	|	 
+3	|	Pseudocapritermes prosilvaticus	|	 	|	 
+3	|	Pseudocapritermes pseudolaetus	|	 	|	 
+3	|	Pseudocapritermes silvaticus	|	 	|	 
+1	|	Pseudocapritermes sinensis	|	 	|	1844529
+1	|	Pseudocapritermes sowerbyi	|	 	|	2699173
+3	|	Pseudocapritermes tikadari	|	 	|	 
+3	|	Pseudomicrotermes alboniger	|	 	|	 
+3	|	Pterotermes occidentis	|	 	|	 
+1	|	Quasitermes incisus	|	 	|	2603942
+1	|	Reticulitermes aculabialis	|	 	|	141915
+3	|	Reticulitermes aegeus	|	 	|	 
+1	|	Reticulitermes affinis	|	 	|	1844534
+3	|	Reticulitermes altus	|	 	|	 
+1	|	Reticulitermes amamianus	|	 	|	297550
+1	|	Reticulitermes ampliceps	|	Tsaitermes ampliceps	|	141910
+3	|	Reticulitermes ancyleus	|	 	|	 
+3	|	Reticulitermes angustatus	|	 	|	 
+3	|	Reticulitermes angusticephalus	|	 	|	 
+1	|	Reticulitermes arenincola	|	Reticulitermes arenicola	|	216609
+1	|	Reticulitermes assamensis	|	 	|	1844535
+3	|	Reticulitermes aurantius	|	 	|	 
+1	|	Reticulitermes balkanensis	|	 	|	197767
+1	|	Reticulitermes banyulensis	|	 	|	197738
+3	|	Reticulitermes bicristatus	|	 	|	 
+3	|	Reticulitermes bitumulus	|	 	|	 
+3	|	Reticulitermes brachygnathus	|	 	|	 
+3	|	Reticulitermes brevicurvatus	|	 	|	 
+3	|	Reticulitermes cancrifemuris	|	 	|	 
+3	|	Reticulitermes castanus	|	 	|	 
+3	|	Reticulitermes chayuensis	|	 	|	 
+1	|	Reticulitermes chinensis	|	 	|	141911
+3	|	Reticulitermes choui	|	 	|	 
+3	|	Reticulitermes chryseus	|	 	|	 
+3	|	Reticulitermes citrinus	|	 	|	 
+1	|	Reticulitermes clypeatus	|	 	|	197765
+3	|	Reticulitermes coelceps	|	 	|	 
+3	|	Reticulitermes conus	|	 	|	 
+3	|	Reticulitermes croceus	|	 	|	 
+3	|	Reticulitermes curticeps	|	 	|	 
+3	|	Reticulitermes curvatus	|	 	|	 
+3	|	Reticulitermes cymbidii	|	 	|	 
+3	|	Reticulitermes dabieshanensis	|	 	|	 
+3	|	Reticulitermes dantuensis	|	 	|	 
+3	|	Reticulitermes dayongensis	|	 	|	 
+3	|	Reticulitermes dinghuensis	|	 	|	 
+3	|	Reticulitermes emei	|	 	|	 
+3	|	Reticulitermes fengduensis	|	 	|	 
+1	|	Reticulitermes flaviceps	|	 	|	112480
+1	|	Reticulitermes flavipes	|	 	|	36989
+3	|	Reticulitermes fukienensis	|	 	|	 
+3	|	Reticulitermes fulvimarginalis	|	 	|	 
+3	|	Reticulitermes ganga	|	 	|	 
+3	|	Reticulitermes gaoshi	|	 	|	 
+3	|	Reticulitermes gaoyaoensis	|	 	|	 
+3	|	Reticulitermes grandis	|	 	|	 
+1	|	Reticulitermes grassei	|	 	|	155721
+1	|	Reticulitermes guangzhouensis	|	 	|	141912
+3	|	Reticulitermes guilinensis	|	 	|	 
+3	|	Reticulitermes guiyangensis	|	 	|	 
+3	|	Reticulitermes guizhouensis	|	 	|	 
+3	|	Reticulitermes gulinensis	|	 	|	 
+1	|	Reticulitermes hageni	|	 	|	93199
+3	|	Reticulitermes hainanensis	|	 	|	 
+1	|	Reticulitermes hesperus	|	 	|	201979
+3	|	Reticulitermes huangi	|	 	|	 
+3	|	Reticulitermes huapingensis	|	 	|	 
+3	|	Reticulitermes hubeiensis	|	 	|	 
+1	|	Reticulitermes hunanensis	|	 	|	1844530
+3	|	Reticulitermes hypsofrons	|	 	|	 
+1	|	Reticulitermes jiangchengensis	|	 	|	1844536
+1	|	Reticulitermes kanmonensis	|	 	|	112477
+1	|	Reticulitermes labralis	|	 	|	141914
+3	|	Reticulitermes largus	|	 	|	 
+3	|	Reticulitermes latilabris	|	 	|	 
+3	|	Reticulitermes leiboensis	|	 	|	 
+3	|	Reticulitermes leigongshanensis	|	 	|	 
+3	|	Reticulitermes leptogulus	|	 	|	 
+1	|	Reticulitermes leptomandibularis	|	 	|	408595
+3	|	Reticulitermes levatoriceps	|	 	|	 
+3	|	Reticulitermes lianchengensis	|	 	|	 
+3	|	Reticulitermes lii	|	 	|	 
+3	|	Reticulitermes lingulatus	|	 	|	 
+3	|	Reticulitermes longicephalus	|	 	|	 
+3	|	Reticulitermes longigulus	|	 	|	 
+3	|	Reticulitermes longipennis	|	 	|	 
+1	|	Reticulitermes lucifugus	|	 	|	127386
+3	|	Reticulitermes luofunicus	|	 	|	 
+3	|	Reticulitermes magdalenae	|	 	|	 
+3	|	Reticulitermes majiangensis	|	 	|	 
+1	|	Reticulitermes malletei	|	 	|	376628
+3	|	Reticulitermes mangshanensis	|	 	|	 
+3	|	Reticulitermes maopingensis	|	 	|	 
+3	|	Reticulitermes microcephalus	|	 	|	 
+1	|	Reticulitermes minutus	|	 	|	1844526
+3	|	Reticulitermes mirogulus	|	 	|	 
+3	|	Reticulitermes mirus	|	 	|	 
+1	|	Reticulitermes miyatakei	|	 	|	112478
+3	|	Reticulitermes nanjiangensis	|	 	|	 
+1	|	Reticulitermes nelsonae	|	 	|	1036538
+3	|	Reticulitermes neochinensis	|	 	|	 
+1	|	Reticulitermes okinawanus	|	 	|	112479
+3	|	Reticulitermes oocephalus	|	 	|	 
+3	|	Reticulitermes oreophilus	|	 	|	 
+3	|	Reticulitermes ovatilabrum	|	 	|	 
+3	|	Reticulitermes paralucifugus	|	 	|	 
+3	|	Reticulitermes parvus	|	 	|	 
+3	|	Reticulitermes perangustus	|	 	|	 
+1	|	Reticulitermes periflaviceps	|	 	|	1844537
+1	|	Reticulitermes perilabralis	|	 	|	141913
+1	|	Reticulitermes perilucifugus	|	 	|	1844531
+3	|	Reticulitermes pingjiangensis	|	 	|	 
+1	|	Reticulitermes planifrons	|	 	|	1844532
+3	|	Reticulitermes planimentus	|	 	|	 
+3	|	Reticulitermes pseudaculabialis	|	 	|	 
+3	|	Reticulitermes qingdaoensis	|	 	|	 
+1	|	Reticulitermes qingjiangensis	|	 	|	1844538
+3	|	Reticulitermes rectis	|	 	|	 
+3	|	Reticulitermes saraswati	|	 	|	 
+3	|	Reticulitermes setosus	|	 	|	 
+3	|	Reticulitermes solidimandibulas	|	 	|	 
+1	|	Reticulitermes speratus	|	 	|	60591
+3	|	Reticulitermes subligulosus	|	 	|	 
+3	|	Reticulitermes sublongicapitatus	|	 	|	 
+3	|	Reticulitermes sylvestris	|	 	|	 
+3	|	Reticulitermes testudineus	|	 	|	 
+3	|	Reticulitermes tianpingshanensis	|	 	|	 
+1	|	Reticulitermes tibetanus	|	 	|	1844539
+1	|	Reticulitermes tibialis	|	 	|	186107
+3	|	Reticulitermes tirapi	|	 	|	 
+3	|	Reticulitermes translucens	|	 	|	 
+3	|	Reticulitermes trichocephalus	|	 	|	 
+1	|	Reticulitermes tricholabralis	|	 	|	1912149
+3	|	Reticulitermes trichothorax	|	 	|	 
+3	|	Reticulitermes tricolorus	|	 	|	 
+1	|	Reticulitermes urbis	|	 	|	197766
+1	|	Reticulitermes virginicus	|	 	|	57123
+3	|	Reticulitermes wugangensis	|	 	|	 
+3	|	Reticulitermes wugongensis	|	 	|	 
+3	|	Reticulitermes wuyishanensis	|	 	|	 
+3	|	Reticulitermes xingshanensis	|	 	|	 
+3	|	Reticulitermes xingyiensis	|	 	|	 
+1	|	Reticulitermes yaeyamanus	|	 	|	104033
+3	|	Reticulitermes yinae	|	 	|	 
+3	|	Reticulitermes yingdeensis	|	 	|	 
+3	|	Reticulitermes yizhangensis	|	 	|	 
+3	|	Reticulitermes yongdingensis	|	 	|	 
+3	|	Reticulitermes yunsiensis	|	 	|	 
+3	|	Reticulitermes zhaoi	|	 	|	 
+3	|	Rhadinotermes coarctatus	|	 	|	 
+1	|	Rhinotermes hispidus	|	 	|	280684
+3	|	Rhinotermes manni	|	 	|	 
+1	|	Rhinotermes marginalis	|	 	|	280683
+3	|	Rhinotermes nasutus	|	 	|	 
+3	|	Rhynchotermes amazonensis	|	 	|	 
+3	|	Rhynchotermes armatus	|	 	|	 
+1	|	Rhynchotermes bulbinasus	|	 	|	1249908
+3	|	Rhynchotermes diphyes	|	 	|	 
+3	|	Rhynchotermes matraga	|	 	|	 
+1	|	Rhynchotermes nasutissimus	|	 	|	1934598
+1	|	Rhynchotermes perarmatus	|	 	|	1972837
+3	|	Rhynchotermes piauy	|	 	|	 
+1	|	Roisinitermes ebogoensis	|	 	|	2483479
+3	|	Roonwalitermes wadhwai	|	 	|	 
+3	|	Rostrotermes cornutus	|	 	|	 
+3	|	Rotunditermes bragantinus	|	 	|	 
+3	|	Rotunditermes rotundiceps	|	 	|	 
+3	|	Rounditermes dechambrei	|	 	|	 
+1	|	Rubeotermes jheringi	|	 	|	1778934
+3	|	Rugitermes athertoni	|	 	|	 
+1	|	Rugitermes bicolor	|	 	|	2012626
+3	|	Rugitermes costaricensis	|	 	|	 
+3	|	Rugitermes flavicinctus	|	 	|	 
+3	|	Rugitermes kirbyi	|	 	|	 
+1	|	Rugitermes laticollis	|	 	|	2012625
+3	|	Rugitermes magninotus	|	 	|	 
+3	|	Rugitermes niger	|	 	|	 
+3	|	Rugitermes nodulosus	|	 	|	 
+3	|	Rugitermes occidentalis	|	 	|	 
+1	|	Rugitermes panamae	|	 	|	2728612
+3	|	Rugitermes rugosus	|	 	|	 
+3	|	Rugitermes unicolor	|	 	|	 
+3	|	Ruptitermes araujoi	|	 	|	 
+1	|	Ruptitermes arboreus	|	 	|	1934599
+3	|	Ruptitermes atyra	|	 	|	 
+3	|	Ruptitermes bandeirai	|	 	|	 
+3	|	Ruptitermes cangua	|	 	|	 
+3	|	Ruptitermes franciscoi	|	 	|	 
+3	|	Ruptitermes kaapora	|	 	|	 
+3	|	Ruptitermes krishnai	|	 	|	 
+3	|	Ruptitermes maraca	|	 	|	 
+3	|	Ruptitermes piliceps	|	 	|	 
+3	|	Ruptitermes pitan	|	 	|	 
+1	|	Ruptitermes reconditus	|	 	|	1616959
+3	|	Ruptitermes xanthochiton	|	 	|	 
+3	|	Sabahitermes leuserensis	|	 	|	 
+3	|	Sabahitermes malakuni	|	 	|	 
+1	|	Sandsitermes robustus	|	 	|	2259570
+3	|	Saxatilitermes saxatilis	|	 	|	 
+1	|	Schedorhinotermes actuosus	|	 	|	232798
+3	|	Schedorhinotermes bidentatus	|	 	|	 
+3	|	Schedorhinotermes brachyceps	|	 	|	 
+1	|	Schedorhinotermes breinli	|	 	|	1199066
+3	|	Schedorhinotermes brevialatus	|	 	|	 
+3	|	Schedorhinotermes butteli	|	 	|	 
+3	|	Schedorhinotermes derosus	|	 	|	 
+3	|	Schedorhinotermes eleanorae	|	 	|	 
+3	|	Schedorhinotermes fortignathus	|	 	|	 
+3	|	Schedorhinotermes ganlanbaensis	|	 	|	 
+3	|	Schedorhinotermes holmgreni	|	 	|	 
+3	|	Schedorhinotermes insolitus	|	 	|	 
+1	|	Schedorhinotermes intermedius	|	 	|	1880962
+1	|	Schedorhinotermes lamanianus	|	 	|	377987
+3	|	Schedorhinotermes leopoldi	|	 	|	 
+1	|	Schedorhinotermes longirostris	|	 	|	2510806
+1	|	Schedorhinotermes magnus	|	 	|	1075648
+3	|	Schedorhinotermes makassarensis	|	 	|	 
+3	|	Schedorhinotermes makilingensis	|	 	|	 
+3	|	Schedorhinotermes malaccensis	|	 	|	 
+1	|	Schedorhinotermes medioobscurus	|	 	|	127391
+3	|	Schedorhinotermes nancowriensis	|	 	|	 
+1	|	Schedorhinotermes putorius	|	 	|	187520
+3	|	Schedorhinotermes pyricephalus	|	 	|	 
+3	|	Schedorhinotermes rectangularis	|	 	|	 
+3	|	Schedorhinotermes reticulatus	|	 	|	 
+3	|	Schedorhinotermes robustior	|	 	|	 
+3	|	Schedorhinotermes sanctaecrucis	|	 	|	 
+3	|	Schedorhinotermes seclusus	|	 	|	 
+3	|	Schedorhinotermes solomonensis	|	 	|	 
+3	|	Schedorhinotermes tenuis	|	 	|	 
+3	|	Schedorhinotermes tiwarii	|	 	|	 
+1	|	Schedorhinotermes translucens	|	 	|	2510807
+3	|	Schedorhinotermes umbraticus	|	 	|	 
+1	|	Serritermes serrifer	|	 	|	119666
+3	|	Silvestritermes almirsateri	|	 	|	 
+3	|	Silvestritermes duende	|	 	|	 
+1	|	Silvestritermes euamignathus	|	 	|	1778902
+3	|	Silvestritermes gnomus	|	 	|	 
+1	|	Silvestritermes heyeri	|	 	|	1934602
+3	|	Silvestritermes lanei	|	 	|	 
+1	|	Silvestritermes minutus	|	 	|	1778921
+3	|	Sinocapritermes albipennis	|	 	|	 
+3	|	Sinocapritermes fujianensis	|	 	|	 
+3	|	Sinocapritermes guangxiensis	|	 	|	 
+3	|	Sinocapritermes magnus	|	 	|	 
+1	|	Sinocapritermes mushae	|	 	|	64673
+3	|	Sinocapritermes parvulus	|	 	|	 
+3	|	Sinocapritermes planifrons	|	 	|	 
+3	|	Sinocapritermes pratensis	|	 	|	 
+3	|	Sinocapritermes sinensis	|	 	|	 
+3	|	Sinocapritermes sinicus	|	 	|	 
+3	|	Sinocapritermes songtaoensis	|	 	|	 
+3	|	Sinocapritermes tianmuensis	|	 	|	 
+3	|	Sinocapritermes vicinus	|	 	|	 
+3	|	Sinocapritermes xiai	|	 	|	 
+3	|	Sinocapritermes xiushanensis	|	 	|	 
+3	|	Sinocapritermes yunnanensis	|	 	|	 
+3	|	Sinonasutitermes admirabilis	|	 	|	 
+3	|	Sinonasutitermes dimorphus	|	 	|	 
+3	|	Sinonasutitermes erectinasus	|	 	|	 
+3	|	Sinonasutitermes guangxiensis	|	 	|	 
+3	|	Sinonasutitermes hainanensis	|	 	|	 
+3	|	Sinonasutitermes mediocris	|	 	|	 
+3	|	Sinonasutitermes planinasus	|	 	|	 
+3	|	Sinonasutitermes platycephalus	|	 	|	 
+3	|	Sinonasutitermes trimorphus	|	 	|	 
+3	|	Sinonasutitermes xiai	|	 	|	 
+3	|	Sinonasutitermes yui	|	 	|	 
+1	|	Sinqasapatermes sachae	|	 	|	2698464
+3	|	Skatitermes psammophilus	|	 	|	 
+3	|	Skatitermes watti	|	 	|	 
+3	|	Spatulitermes coolingi	|	 	|	 
+3	|	Speculitermes angustigulus	|	 	|	 
+3	|	Speculitermes chadaensis	|	 	|	 
+3	|	Speculitermes cyclops	|	 	|	 
+3	|	Speculitermes deccanensis	|	 	|	 
+3	|	Speculitermes dharwarensis	|	 	|	 
+3	|	Speculitermes emersoni	|	 	|	 
+3	|	Speculitermes goesswaldi	|	 	|	 
+1	|	Speculitermes macrodentatus	|	 	|	377988
+3	|	Speculitermes paivai	|	 	|	 
+3	|	Speculitermes roonwali	|	 	|	 
+3	|	Speculitermes sinhalensis	|	 	|	 
+3	|	Speculitermes triangularis	|	 	|	 
+1	|	Sphaerotermes sphaerothorax	|	 	|	187564
+3	|	Spinitermes brevicornutus	|	 	|	 
+1	|	Spinitermes longiceps	|	 	|	1934605
+3	|	Spinitermes nigrostomus	|	 	|	 
+3	|	Spinitermes robustus	|	 	|	 
+1	|	Spinitermes trispinosus	|	 	|	377990
+3	|	Stolotermes africanus	|	 	|	 
+3	|	Stolotermes australicus	|	 	|	 
+1	|	Stolotermes brunneicornis	|	 	|	488277
+1	|	Stolotermes inopinus	|	 	|	377991
+3	|	Stolotermes queenslandicus	|	 	|	 
+1	|	Stolotermes ruficeps	|	 	|	544424
+3	|	Stolotermes victoriensis	|	 	|	 
+3	|	Stylotermes acrofrons	|	 	|	 
+3	|	Stylotermes ahmadi	|	 	|	 
+3	|	Stylotermes alpinus	|	 	|	 
+3	|	Stylotermes angustignathus	|	 	|	 
+3	|	Stylotermes beesoni	|	 	|	 
+3	|	Stylotermes bengalensis	|	 	|	 
+3	|	Stylotermes chakratensis	|	 	|	 
+3	|	Stylotermes changtingensis	|	 	|	 
+3	|	Stylotermes chengduensis	|	 	|	 
+3	|	Stylotermes chongqingensis	|	 	|	 
+3	|	Stylotermes choui	|	 	|	 
+3	|	Stylotermes crinis	|	 	|	 
+3	|	Stylotermes curvatus	|	 	|	 
+3	|	Stylotermes dunensis	|	 	|	 
+3	|	Stylotermes faveolus	|	 	|	 
+3	|	Stylotermes fletcheri	|	 	|	 
+3	|	Stylotermes fontanellus	|	 	|	 
+3	|	Stylotermes guiyangensis	|	 	|	 
+1	|	Stylotermes halumicus	|	 	|	1945555
+3	|	Stylotermes hanyuanicus	|	 	|	 
+3	|	Stylotermes inclinatus	|	 	|	 
+3	|	Stylotermes jinyunicus	|	 	|	 
+3	|	Stylotermes labralis	|	 	|	 
+3	|	Stylotermes laticrus	|	 	|	 
+3	|	Stylotermes latilabrum	|	 	|	 
+3	|	Stylotermes latipedunculus	|	 	|	 
+3	|	Stylotermes lianpingensis	|	 	|	 
+3	|	Stylotermes longignathus	|	 	|	 
+3	|	Stylotermes mecocephalus	|	 	|	 
+3	|	Stylotermes minutus	|	 	|	 
+3	|	Stylotermes mirabilis	|	 	|	 
+3	|	Stylotermes orthognathus	|	 	|	 
+3	|	Stylotermes parabengalensis	|	 	|	 
+3	|	Stylotermes planifrons	|	 	|	 
+3	|	Stylotermes robustus	|	 	|	 
+3	|	Stylotermes roonwali	|	 	|	 
+3	|	Stylotermes setosus	|	 	|	 
+3	|	Stylotermes sinensis	|	 	|	 
+3	|	Stylotermes sui	|	 	|	 
+3	|	Stylotermes triplanus	|	 	|	 
+3	|	Stylotermes tsaii	|	 	|	 
+3	|	Stylotermes undulatus	|	 	|	 
+3	|	Stylotermes valvules	|	 	|	 
+3	|	Stylotermes wuyinicus	|	 	|	 
+3	|	Stylotermes xichangensis	|	 	|	 
+3	|	Subulioiditermes borneensis	|	 	|	 
+3	|	Subulioiditermes emersoni	|	 	|	 
+3	|	Subulioiditermes subulioides	|	 	|	 
+3	|	Subulitermes angusticeps	|	 	|	 
+1	|	Subulitermes baileyi	|	 	|	377992
+3	|	Subulitermes constricticeps	|	 	|	 
+1	|	Subulitermes denisae	|	 	|	2728618
+1	|	Subulitermes microsoma	|	 	|	2358286
+3	|	Subulitermes thompsonae	|	 	|	 
+1	|	Synacanthotermes heterodon	|	 	|	201613
+3	|	Synacanthotermes trilobatus	|	 	|	 
+1	|	Synacanthotermes zanzibarensis	|	 	|	315817
+1	|	Syncapritermes greeni	|	 	|	187566
+3	|	Synhamitermes ceylonicus	|	 	|	 
+3	|	Synhamitermes colombensis	|	 	|	 
+3	|	Synhamitermes labioangulatus	|	 	|	 
+3	|	Synhamitermes quadriceps	|	 	|	 
+3	|	Syntermes aculeosus	|	 	|	 
+3	|	Syntermes barbatus	|	 	|	 
+3	|	Syntermes bolivianus	|	 	|	 
+3	|	Syntermes brevimalatus	|	 	|	 
+3	|	Syntermes calvus	|	 	|	 
+3	|	Syntermes cearensis	|	 	|	 
+3	|	Syntermes chaquimayensis	|	 	|	 
+1	|	Syntermes crassilabrum	|	 	|	1972838
+3	|	Syntermes dirus	|	 	|	 
+1	|	Syntermes grandis	|	 	|	488278
+3	|	Syntermes insidians	|	 	|	 
+3	|	Syntermes longiceps	|	 	|	 
+3	|	Syntermes magnoculus	|	 	|	 
+1	|	Syntermes molestus	|	 	|	1972839
+3	|	Syntermes nanus	|	 	|	 
+3	|	Syntermes obtusus	|	 	|	 
+1	|	Syntermes parallelus	|	 	|	1972840
+3	|	Syntermes peruanus	|	 	|	 
+3	|	Syntermes praecellens	|	 	|	 
+1	|	Syntermes spinosus	|	 	|	1576346
+3	|	Syntermes tanygnathus	|	 	|	 
+3	|	Syntermes territus	|	 	|	 
+3	|	Syntermes wheeleri	|	 	|	 
+3	|	Tarditermes contracolor	|	 	|	 
+3	|	Tauritermes taurocephalus	|	 	|	 
+3	|	Tauritermes triceromegas	|	 	|	 
+3	|	Tauritermes vitulus	|	 	|	 
+3	|	Tenuirostritermes briciae	|	 	|	 
+3	|	Tenuirostritermes cinereus	|	 	|	 
+3	|	Tenuirostritermes incisus	|	 	|	 
+3	|	Tenuirostritermes strenuus	|	 	|	 
+3	|	Tenuirostritermes tenuirostris	|	 	|	 
+3	|	Termes amaralii	|	 	|	 
+3	|	Termes ayri	|	 	|	 
+3	|	Termes baculi	|	 	|	 
+3	|	Termes baculiformis	|	 	|	 
+3	|	Termes bolivianus	|	 	|	 
+3	|	Termes boultoni	|	 	|	 
+3	|	Termes brevicornis	|	 	|	 
+3	|	Termes capensis	|	 	|	 
+1	|	Termes comis	|	 	|	187521
+1	|	Termes fatalis	|	 	|	187523
+1	|	Termes hispaniolae	|	 	|	488279
+1	|	Termes hospes	|	 	|	187522
+3	|	Termes huayangensis	|	 	|	 
+3	|	Termes laticornis	|	 	|	 
+3	|	Termes major	|	 	|	 
+3	|	Termes marjoriae	|	 	|	 
+3	|	Termes medioculatus	|	 	|	 
+3	|	Termes melindae	|	 	|	 
+3	|	Termes nigritus	|	 	|	 
+3	|	Termes panamaensis	|	 	|	 
+1	|	Termes propinquus	|	 	|	229703
+3	|	Termes riograndensis	|	 	|	 
+1	|	Termes rostratus	|	 	|	1934608
+3	|	Termes splendens	|	 	|	 
+1	|	Termitogeton planus	|	 	|	127398
+3	|	Termitogeton umbilicatus	|	 	|	 
+3	|	Tetimatermes oliveirae	|	 	|	 
+3	|	Thoracotermes brevinotus	|	 	|	 
+3	|	Thoracotermes grevillensis	|	 	|	 
+3	|	Thoracotermes lusingensis	|	 	|	 
+1	|	Thoracotermes macrothorax	|	 	|	377994
+3	|	Tiunatermes mariuzani	|	 	|	 
+3	|	Tonsuritermes mathewsi	|	 	|	 
+3	|	Tonsuritermes tucki	|	 	|	 
+3	|	Trapellitermes loxomastax	|	 	|	 
+1	|	Triangularitermes triangulariceps	|	 	|	2358287
+1	|	Trichotermes ducis	|	 	|	1934611
+3	|	Trichotermes machadoi	|	 	|	 
+3	|	Trichotermes villifrons	|	 	|	 
+3	|	Trinervitermes arabiae	|	 	|	 
+1	|	Trinervitermes bettonianus	|	 	|	2022706
+1	|	Trinervitermes biformis	|	 	|	1882578
+3	|	Trinervitermes dispar	|	 	|	 
+3	|	Trinervitermes disparatus	|	 	|	 
+3	|	Trinervitermes fletcheri	|	 	|	 
+1	|	Trinervitermes geminatus	|	 	|	377995
+3	|	Trinervitermes gratiosus	|	 	|	 
+3	|	Trinervitermes indicus	|	 	|	 
+3	|	Trinervitermes nigrirostris	|	 	|	 
+1	|	Trinervitermes occidentalis	|	 	|	1042815
+1	|	Trinervitermes oeconomus	|	 	|	1042816
+3	|	Trinervitermes rabidus	|	 	|	 
+1	|	Trinervitermes rapulum	|	 	|	377996
+3	|	Trinervitermes rhodesiensis	|	 	|	 
+3	|	Trinervitermes saudiensis	|	 	|	 
+3	|	Trinervitermes sensarmai	|	 	|	 
+3	|	Trinervitermes sudanicus	|	 	|	 
+1	|	Trinervitermes togoensis	|	 	|	1042817
+1	|	Trinervitermes trinervius	|	 	|	2589826
+1	|	Trinervitermes trinervoides	|	 	|	70855
+1	|	Tuberculitermes bycanistes	|	 	|	377997
+3	|	Tuberculitermes flexuosus	|	 	|	 
+3	|	Tuberculitermes guineensis	|	 	|	 
+1	|	Tumulitermes apiocephalus	|	 	|	377998
+1	|	Tumulitermes comatus	|	Nasutitermes comatus	|	286183
+3	|	Tumulitermes curtus	|	 	|	 
+1	|	Tumulitermes dalbiensis	|	 	|	1962920
+1	|	Tumulitermes hastilis	|	 	|	377999
+1	|	Tumulitermes kershawi	|	 	|	1962921
+1	|	Tumulitermes marcidus	|	 	|	1962922
+3	|	Tumulitermes mareebensis	|	 	|	 
+3	|	Tumulitermes nichollsi	|	 	|	 
+1	|	Tumulitermes pastinator	|	 	|	286182
+1	|	Tumulitermes peracutus	|	 	|	1962923
+1	|	Tumulitermes petilus	|	 	|	1962924
+3	|	Tumulitermes pulleinei	|	 	|	 
+1	|	Tumulitermes recalvus	|	 	|	1934613
+1	|	Tumulitermes subaquilus	|	 	|	1962926
+1	|	Tumulitermes tumuli	|	 	|	427704
+1	|	Tumulitermes westraliensis	|	 	|	378000
+3	|	Uncitermes almeriae	|	 	|	 
+1	|	Uncitermes teevani	|	 	|	1354332
+1	|	Unguitermes acutifrons	|	 	|	378001
+3	|	Unguitermes bidentatus	|	 	|	 
+3	|	Unguitermes bouilloni	|	 	|	 
+3	|	Unguitermes magnus	|	 	|	 
+3	|	Unguitermes proclivifrons	|	 	|	 
+1	|	Unguitermes trispinosus	|	 	|	378002
+3	|	Unguitermes unidentatus	|	 	|	 
+3	|	Unicornitermes gaerdesi	|	 	|	 
+3	|	Velocitermes aporeticus	|	 	|	 
+1	|	Velocitermes barrocoloradensis	|	 	|	2728624
+3	|	Velocitermes beebei	|	 	|	 
+3	|	Velocitermes glabrinotus	|	 	|	 
+1	|	Velocitermes heteropterus	|	 	|	1056658
+3	|	Velocitermes laticephalus	|	 	|	 
+3	|	Velocitermes melanocephalus	|	 	|	 
+3	|	Velocitermes paucipilis	|	 	|	 
+3	|	Velocitermes uniformis	|	 	|	 
+1	|	Velocitermes velox	|	 	|	378003
+3	|	Verrucositermes hirtus	|	 	|	 
+1	|	Verrucositermes tuberosus	|	 	|	378004
+3	|	Xiaitermes tiantaiensis	|	 	|	 
+3	|	Xiaitermes yinxianensis	|	 	|	 
+3	|	Xylochomitermes aspinosus	|	 	|	 
+3	|	Xylochomitermes melvillensis	|	 	|	 
+1	|	Xylochomitermes occidualis	|	 	|	378005
+3	|	Xylochomitermes punctillus	|	 	|	 
+3	|	Xylochomitermes reductus	|	 	|	 
+3	|	Xylochomitermes tomentosus	|	 	|	 
+1	|	Zootermopsis angusticollis	|	 	|	7503
+1	|	Zootermopsis laticeps	|	 	|	2075532
+1	|	Zootermopsis nevadensis	|	 	|	136037
